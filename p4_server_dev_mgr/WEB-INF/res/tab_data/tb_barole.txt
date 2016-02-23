@@ -1,0 +1,12 @@
+﻿
+name=tb_barole
+
+namenote=系统用户组
+
+field=rolename,1,50,1	rolenote,1,200,1	roletype,0,0,1	isenable,0,0,1
+
+fieldnote=用户组名	用户组描述	组类型	是否启用
+
+index:
+id	2	ind_barole_id
+indexEnd

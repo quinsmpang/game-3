@@ -1,0 +1,8 @@
+﻿
+name=tab_push_log
+
+namenote=推送消息日志
+
+field=act,0,5	target,0,11	content,1,4000,1	offlinesave,0,1,1	overtime,2,0,1	exception,1,256,1	timemark,1,64	createtime,2,0
+
+fieldnote=动作	推送目标	消息内容	离线存储	过期时间	异常信息	时间戳	创建时间

@@ -1,0 +1,13 @@
+﻿
+name=tab_player
+
+namenote=角色
+
+field=userid,0,11	serverid,0,11	vsid,0,11	channel,1,16	savetime,2,0	sessionid,1,255,1	logintime,2,0,1	onlinestate,0,1	onlinetime,0,9	num,0,11	name,1,20	lv,0,16	exp,0,11,1	money,0,16	coin,0,16	vip,0,2	buycoin,0,0	rebatecoin,0,0	tqnum,0,4,1	tqduetime,2,0,1	rechargermb,0,0	rechargeam,0,11	firstrechargetime,2,0,1	rechargtypes,1,64	resetdate,2,0	openfunc,1,512	bannedmsgtime,2,0,1	enable,0,1	blankofftime,2,0,1	isrobot,0,11
+
+fieldnote=用户ID	服务器ID	虚拟服务器ID	联运渠道	创建时间	识别码	最后登录时间	在线状态	在线时长	主角编号	角色名	等级	当前经验	金币	钻石	VIP等级	充值的钻石数	赠送的钻石数	特权编号	特权到期时间	充值RMB总数	充值次数	首充时间	已充值过的金额	日常数据重置时间	已开启功能数据	禁言截至时间	使用状态	封号截至时间	是否为机器人
+
+index:
+id	1	ind_pla_id
+userid	1	ind_player_uid
+indexEnd

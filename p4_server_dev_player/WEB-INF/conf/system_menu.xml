@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="gbk"?>
+<menu>	
+	<menubar name="游戏管理">
+		<menuitem icon="icon_fight.png" link="../info/frame.jsp?title=查看当前战斗&amp;link=battle_list.jsp" module="游戏管理" permission="查看当前战斗" visible="1">当前战斗</menuitem>		
+	</menubar>
+	<menubar name="基本数据">
+		<menuitem icon="icon_NetworkGroup.gif" link="../info/frame.jsp?title=服务器管理&amp;link=server_list.jsp" module="基本数据" permission="服务器管理" visible="1">游戏服务器</menuitem>			
+		<menuitem icon="conf.gif" link="../info/frame.jsp?title=参数设置&amp;link=config_list.jsp" module="基本数据" permission="参数设置" visible="1">参数设置</menuitem>
+	</menubar>
+	<menubar name="系统功能">
+	</menubar>
+	<menubar name="数据维护">
+		<menuitem icon="clippaper.gif" link="../info/frame.jsp?title=文件管理&amp;link=system_folder_list.jsp" module="数据维护" permission="文件管理" visible="1">文件管理</menuitem>
+	</menubar>
+	<menubar name="系统设置">
+		<menuitem icon="icon_group2.gif" link="../system/frame.jsp?title=权限分组&amp;link=role_list.jsp" module="系统设置" permission="权限分组" visible="1">权限分组</menuitem>	
+		<menuitem icon="icon_user.gif" link="../system/frame.jsp?title=用户管理&amp;link=user_list.jsp" module="系统设置" permission="用户管理" visible="1">用户管理</menuitem>			
+		<menuitem icon="icon_user.gif" link="../system/frame.jsp?title=管理员操作日志&amp;link=admin_opereat_log_list.jsp" module="系统设置" permission="管理员操作日志" visible="1">管理员操作日志</menuitem>			
+		<menuitem icon="icon_user.gif" link="../system/frame.jsp?title=禁IP设置&amp;link=ipdeny_page_list.jsp" module="系统设置" permission="禁IP设置" visible="1">禁IP设置</menuitem>
+		<menuitem icon="icon_changepwd2.gif" link="../system/frame.jsp?title=更改密码&amp;link=pwd_change.jsp" module="系统设置" permission="" visible="1">更改密码</menuitem>
+		<menuitem icon="icon_exit2.gif" link="exit.jsp" module="系统设置" permission="" visible="1">退出</menuitem>
+	</menubar>
+</menu>

@@ -1,0 +1,8 @@
+﻿
+name=tab_player_changelog
+
+namenote=玩家数据修改日志
+
+field=serverid,0,0,1	playerid,0,0,1	columnname,4,30,1	changevalue,1,32,1	savedate,2,0,1	operatername,4,30,1	ip,4,15,1	reason,4,255,1
+
+fieldnote=游戏服务器id	游戏角色id	更改玩家数据字段名	改变值	保存时间	后台操作者用户名	操作者IP	操作理由

@@ -1,0 +1,8 @@
+﻿
+name=tab_custom_activity_stor
+
+namenote=自定义活动库
+
+field=playerid,0,11	actiid,0,11	process,1,256	getdata,1,256	expirationtime,2,0,1
+
+fieldnote=角色ID	活动ID	进度	领奖数据	过期时间

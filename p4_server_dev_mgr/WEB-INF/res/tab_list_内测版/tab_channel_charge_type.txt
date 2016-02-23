@@ -1,0 +1,15 @@
+﻿
+name=tab_channel_charge_type
+
+namenote=渠道充值类型
+
+field=channel,1,5	chargetype,0,10
+
+fieldnote=联运渠道码	付费类型
+
+data:
+000	21
+000	24
+001	21
+001	24
+dataEnd

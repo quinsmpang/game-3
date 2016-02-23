@@ -1,0 +1,12 @@
+﻿
+name=tab_partner_stor
+
+namenote=伙伴库
+
+field=playerid,0,11	serverid,0,11	num,0,11	awaken,0,11	lv,0,11	exp,0,11	phase,0,11	star,0,11	pos1,0,11	pos2,0,11	pos3,0,11	pos4,0,11	pos5,0,11	pos6,0,11	orb1,0,11	orb2,0,11	orb3,0,11	orb4,0,11	orb5,0,11	orb6,0,11	skilllv1,0,11	skilllv2,0,11	skilllv3,0,11	skilllv4,0,11	skilllv5,0,11	battlepower,0,11
+
+fieldnote=角色编号	服务器ID	伙伴编号	是否已觉醒	等级	经验	阶级	星级	武器	头盔	衣服	鞋子	戒指	宝物	宝玉1	宝玉2	宝玉3	宝玉4	宝玉5	宝玉6	主动技等级	技能2等级	技能3等级	技能4等级	觉醒技等级	战力
+
+index:
+playerid	1	ind_partner_pid
+indexEnd

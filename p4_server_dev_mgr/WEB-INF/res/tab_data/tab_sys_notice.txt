@@ -1,0 +1,12 @@
+﻿
+name=tab_sys_notice
+
+namenote=系统公告
+
+field=title,1,64	content,1,4000	writer,1,32	channel,1,1024	starttime,2,0,1	overtime,2,0,1	createtime,2,0
+
+fieldnote=标题	内容	作者	渠道	发布时间	过期时间	创建时间
+
+index:
+id	2	ind_sys_notice_id
+indexEnd

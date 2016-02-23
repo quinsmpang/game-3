@@ -1,0 +1,12 @@
+﻿
+name=tab_mail_stor
+
+namenote=邮件库
+
+field=playerid,0,11	pname,1,16,1	senderid,0,11	sendername,1,16,1	readed,0,1	title,1,128,1	content,1,512,1	adjunct,1,1024,1	extracted,0,1	createtime,2,0	smailid,0,11,1
+
+fieldnote=收件玩家ID	收件玩家名	发件玩家ID	发件玩家名	状态	标题	内容	附件	附件状态	发送时间	全服邮件ID
+
+index:
+playerid	1	ind_mail_pid
+indexEnd

@@ -1,0 +1,8 @@
+﻿
+name=tab_banned_mac
+
+namenote=禁MAC
+
+field=mac,1,50,1	savetime,2,0,1	reason,4,255,1	imei,1,100,1	opuser,4,50,1
+
+fieldnote=未知	未知	未知	未知	未知

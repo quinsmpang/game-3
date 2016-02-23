@@ -1,0 +1,8 @@
+﻿
+name=tab_copymap_stor
+
+namenote=副本库
+
+field=playerid,0,11	bigmap,0,11	passed,1,512	drops,1,1024	dailytimes,1,512	buy,1,512	award,1,512	passedam,1,512
+
+fieldnote=角色ID	大地图编号	已通过的副本编号和星数	各副本的掉落和挑战次数	各副本的每日挑战次数	精英副本购买次数	已领取的星级奖励	各副本的通过次数

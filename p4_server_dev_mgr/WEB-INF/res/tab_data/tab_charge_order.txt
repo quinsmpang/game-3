@@ -1,0 +1,14 @@
+﻿
+name=tab_charge_order
+
+namenote=充值订单
+
+field=orderno,1,40	ordertype,0,5	price,0,20	buytype,0,1	fromwhere,0,1	getcoin,0,20,1	getpower,0,20	serverid,0,10	playerid,0,10	channel,1,10	platform,1,3	username,4,64	extend,4,255	result,0,1	note,4,255,1	gived,0,1	ordertime,2,0	savetime,2,0	ip,1,20,1	chargecenter,0,1	corderno,1,40,1	cordertype,0,5,1	systemtype,0,11
+
+fieldnote=订单号	订单类型	价格(元)	购买类型	支付来源(网站,客户端)	获得金锭	获得特权	游戏服id	角色id	联运渠道	推广渠道	用户名	订单扩展参数	订单结果	结果描述	是否已发货	订单时间	保存时间	ip	是否来自充值中心	充值中心订单号	充值中心订单类型	手机平台
+
+index:
+id	2	ind_charge_order_id
+playerid	1	ind_charge_order_pid
+orderno	1	ind_charge_order_no
+indexEnd

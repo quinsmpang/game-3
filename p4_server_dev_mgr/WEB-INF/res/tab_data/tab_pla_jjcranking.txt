@@ -1,0 +1,12 @@
+﻿
+name=tab_pla_jjcranking
+
+namenote=角色排位竞技
+
+field=playerid,0,11	serverid,0,11	ranking,0,6	challengeamount,0,3	resetamount,0,11	nextchatime,2,0,1	refreshoppam,0,11	oppranking,1,64,1	defformation,1,64,1	battlepower,0,11	winning,0,10	getmoney,0,11	getjjccoin,0,11	highranking,0,11	changetrend,0,1	battlerecord,1,1024	wkchaam,0,11	wkdefform,1,64,1	wkchatime,2,0,1	wkbattlepower,0,11
+
+fieldnote=角色ID	服务器ID	排名	已挑战次数	已重置挑战次数	下次挑战时间	刷新对手次数	对手排名	防守阵型	阵型战力	连胜场数	已获得铜钱	已获得竞技币	最高排名	排名变化趋势	挑战记录	挖矿已挑战次数	挖矿防守阵型	挖矿最后挑战时间	挖矿阵型战力
+
+index:
+ranking	2	ind_pjr_ranking
+indexEnd

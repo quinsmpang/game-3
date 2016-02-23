@@ -1,0 +1,12 @@
+﻿
+name=tab_pla_shop
+
+namenote=角色商店
+
+field=playerid,0,11	item1,1,512	buy1,1,128	refreshtime1,2,0,1	times1,0,11	item2,1,512	buy2,1,128	refreshtime2,2,0,1	item3,1,512	buy3,1,128	refreshtime3,2,0,1	times3,0,11	item4,1,512	buy4,1,128	refreshtime4,2,0,1	times4,0,11	item5,1,512	buy5,1,128	refreshtime5,2,0,1	times5,0,11	item6,1,512	buy6,1,128	refreshtime6,2,0,1	times6,0,11
+
+fieldnote=角色ID	普通商店当前物品数据	普通商店已购买物品数据	普通商店下次刷新时间	普通商店主动刷新次数	神秘商店当前物品数据	神秘商店已购买物品数据	神秘商店下次刷新时间	竞技商店当前物品数据	竞技商店已购买物品数据	竞技商店下次刷新时间	竞技商店主动刷新次数	家族商店当前物品数据	家族商店已购买物品数据	家族商店下次刷新时间	家族商店主动刷新次数	魂点商店当前物品数据	魂点商店已购买物品数据	魂点商店下次刷新时间	魂点商店主动刷新次数	轮回塔当前物品数据	轮回塔已购买物品数据	轮回塔下次刷新时间	轮回塔主动刷新次数
+
+index:
+playerid	2	ind_pla_shop_pid
+indexEnd

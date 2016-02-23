@@ -1,0 +1,8 @@
+﻿
+name=tab_player_login_log
+
+namenote=角色登录日志
+
+field=playerid,0,11	userid,0,11	serverid,0,11	logindate,2,0	logintime,2,0	logouttime,2,0,1	onlinetime,0,10,1
+
+fieldnote=角色ID	用户ID	服务器ID	登录日期	登录时间	注销时间	在线时长

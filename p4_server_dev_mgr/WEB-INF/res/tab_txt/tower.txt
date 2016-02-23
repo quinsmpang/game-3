@@ -1,0 +1,13 @@
+
+data:
+//基础积分
+basic=10,15,20
+//星级倍率
+star=1,2,3
+//禁止挑战起始时间
+forbiddenstarttime=4:00:00
+//禁止挑战终止时间
+forbiddenendtime=5:00:00
+//难度对应机器人类型
+type=1,1,2
+dataEnd

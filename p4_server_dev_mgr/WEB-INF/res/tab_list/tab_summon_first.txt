@@ -1,0 +1,12 @@
+﻿
+name=tab_summon_first
+
+namenote=召唤首次特殊处理
+
+field=frist1,1,64	frist2,1,64	frist3,1,64	frist4,1,64
+
+fieldnote=普通召唤首次	至尊召唤首次	至尊召唤首次非免费召唤	至尊召唤首次十连召唤
+
+data:
+9,3	9,28	9,38	9,4
+dataEnd

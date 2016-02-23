@@ -1,0 +1,8 @@
+﻿
+name=tab_server_exc_mail_addr
+
+namenote=服务器异常邮箱
+
+field=name,1,16	mailaddr,1,48
+
+fieldnote=发送人	邮箱地址

@@ -1,0 +1,8 @@
+﻿
+name=tab_cb_teampool
+
+namenote=国战队伍池
+
+field=playerid,0,11	factionid,0,11	teamdata,1,64	battlepower,0,11
+
+fieldnote=角色ID	帮派ID	队伍配置	战力

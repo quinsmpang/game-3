@@ -1,0 +1,8 @@
+﻿
+name=tab_access_server_exc_log
+
+namenote=访问服务器异常日志
+
+field=sendreqserver,1,32	accessurl,1,128	reqinfo,1,128	excinfo,1,128	createtime,2,0
+
+fieldnote=发请求服务器	访问地址	请求信息	异常信息	异常时间

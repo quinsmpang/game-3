@@ -1,0 +1,12 @@
+﻿
+name=tab_server
+
+namenote=游戏服务器
+
+field=name,1,32	state,0,2	tip,0,2	note,1,255,1	shownote,1,512,1	opentime,2,0	http,4,128	tcp,4,128	maxplayer,0,5	usestate,0,1	usenote,1,64,1	reslv,0,2
+
+fieldnote=名称	状态	标签	备注	弹出说明	开服时间	HTTP	TCP	承载最大玩家数	启用状态	启用说明	资源等级
+
+index:
+id	2	ind_server_id
+indexEnd

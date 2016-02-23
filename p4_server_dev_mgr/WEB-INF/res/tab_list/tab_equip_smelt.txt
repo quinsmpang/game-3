@@ -1,0 +1,15 @@
+﻿
+name=tab_equip_smelt
+
+namenote=装备熔炼
+
+field=rare1,0,11	rare2,0,11	needmoney,0,11	needequip,0,11	odds,0,11	failgain,0,11	equips,0,11
+
+fieldnote=装备原始品质	熔炼后品质	所需铜钱	所需装备数量	成功率	失败幸运值	失败返还装备数量
+
+data:
+1	2	0	6	100	0	3
+2	3	1000	6	100	0	3
+3	4	5000	6	30	10	3
+4	5	20000	6	20	5	3
+dataEnd

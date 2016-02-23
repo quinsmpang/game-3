@@ -1,0 +1,12 @@
+﻿
+name=tab_pla_mail
+
+namenote=角色邮件
+
+field=playerid,0,11	linklist,1,256
+
+fieldnote=角色ID	联系人
+
+index:
+playerid	2	ind_pmail_pid
+indexEnd

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<!-- 是否输出调试信息(服务端用) -->
+	<gdout>1</gdout>
+	<!-- 退出重进帮派间隔时长(单位：分钟) -->
+	<joinfacspacetime>1</joinfacspacetime>
+	<!-- 调试模式 -->
+	<debug>1</debug>
+	<!-- 资源服务器地址 -->
+	<resurl>http://192.168.12.4:1111/game_res/</resurl>
+	<!-- 启用清理过期战斗录像计时器 -->
+	<clearreplaytt>1</clearreplaytt>
+	<!-- 初始VIP等级 -->
+	<initvip>6</initvip>
+</config>

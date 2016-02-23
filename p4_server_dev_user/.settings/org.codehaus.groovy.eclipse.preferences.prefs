@@ -1,0 +1,5 @@
+#Fri Mar 20 14:14:43 CST 2015
+eclipse.preferences.version=1
+groovy.compiler.output.path=bin-groovy
+groovy.dont.check.package.vs.src.path=true
+groovy.dont.generate.class.files=true

@@ -1,0 +1,8 @@
+﻿
+name=tab_cb_city_stor
+
+namenote=国战城池
+
+field=citynum,0,11	serverid,0,11	influencenum,0,11,1	factionid,0,11,1	factionname,1,32	defnpclv,0,11	defnpcam,0,11	nowarendtime,2,0,1	leaderid,0,11,1	leadername,1,16,1	leaderposarr,1,64	leaderbattlepower,0,11	giveupleadercdtime,2,0,1
+
+fieldnote=城池编号	服务器ID	占领势力编号	占领帮派ID	占领帮派名	守城NPC等级	守城NPC数量	免战结束时间	太守角色ID	太守角色名	太守防守阵型	太守队伍战力	放弃太守冷却时间

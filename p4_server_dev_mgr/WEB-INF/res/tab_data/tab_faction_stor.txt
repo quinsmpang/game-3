@@ -1,0 +1,12 @@
+﻿
+name=tab_faction_stor
+
+namenote=家族库
+
+field=playerid,0,11	pname,1,20	serverid,0,11	name,1,16	lv,0,2	money,0,10	innote,1,512,1	joincond,1,32,1	declaream,0,11	resetdate,2,0	technology,1,128	cmpassdata,1,256	cmdata,1,512	occupyselfcity,0,11
+
+fieldnote=帮主编号	帮主名字	服务器编号	帮派名称	帮派等级	帮派资金	帮会公告	入帮条件	宣战次数	日常数据重置时间	帮派科技	已通关的副本地图	帮派副本数据	是否已占领自有城市
+
+index:
+id	2	ind_faction_id
+indexEnd

@@ -1,0 +1,12 @@
+﻿
+name=tab_exchange_code
+
+namenote=兑换码
+
+field=code,1,10	open_date,2,0,1	published,0,1,1	publish_time,2,0,1	phone,1,20,1	exchanged,0,1,1	exchange_time,2,0,1	createuser,1,32,1	create_time,2,0
+
+fieldnote=兑换码	开放日期	已分发	分发时间	分发手机号	已兑换	兑换时间	创建者	创建时间
+
+index:
+code	2	ind_exchangecode_code
+indexEnd

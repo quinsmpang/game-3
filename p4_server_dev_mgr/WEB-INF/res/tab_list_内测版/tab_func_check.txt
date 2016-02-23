@@ -1,0 +1,41 @@
+﻿
+name=tab_func_check
+
+namenote=功能开启检测
+
+field=actnum,0,8	webkey,1,64	funcnum,0,8	funcname,1,64
+
+fieldnote=请求编号	页面KEY	功能编号	功能名
+
+data:
+1451	jjcranking_getinfo	1002	竞技场
+1452	jjcranking_getopps	1002	竞技场
+1453	jjcranking_battle	1002	竞技场
+1454	jjcranking_getrankingdata	1002	竞技场
+1455	jjcranking_refreshopps	1002	竞技场
+1456	jjcranking_clear_cd	1002	竞技场
+1457	jjcranking_reset_cha_am	1002	竞技场
+1458	jjcranking_set_defform	1002	竞技场
+1459	jjcranking_get_oppdefdata	1002	竞技场
+1301	jj_shop_get	1003	竞技场
+1302	jj_shop_buy	1003	竞技场
+1303	jj_shop_refresh	1003	竞技场
+1351	faction_shop_get	902	帮派商店
+1352	faction_shop_buy	902	帮派商店
+1353	faction_shop_refresh	902	帮派商店
+1651	trial_money_start	1102	诸王宝库
+1652	trial_money_end	1102	诸王宝库
+1701	trial_exp_start	1103	八卦炼丹炉
+1702	trial_exp_end	1103	八卦炼丹炉
+1751	trial_partner_start	1104	伙伴试炼
+1752	trial_partner_end	1104	伙伴试炼
+1201	ordinary_shop_get	1301	普通商店
+1202	ordinary_shop_buy	1301	普通商店
+1203	ordinary_shop_refresh	1301	普通商店
+1251	mystery_shop_get	1302	神秘商店
+1252	mystery_shop_buy	1302	神秘商店
+1253	0	1302	神秘商店
+1401	sp_shop_get	1303	魂点商店
+1402	sp_shop_buy	1303	魂点商店
+1403	sp_shop_refresh	1303	魂点商店
+dataEnd

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<download>
+	<apk>http://172.18.0.108:8805/download/p4/dev/</apk>
+	<res>http://172.18.0.108:8805/download/p4/dev/</res>
+	<resurl>http://192.168.12.4:1111/game_res/</resurl>
+</download>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config> 	
+	<login>http://wwwtest.pook.com.cn/commLogin.do</login>
+	<login2>http://192.168.11.14:8080/PokerCity/commLogin.do</login2>
+	<register>http://wwwtest.pook.com.cn/register/commRegist.do</register>	
+	<bindcard>http://wwwtest.pook.com.cn/commSafety/identityCardBind.do</bindcard>
+	<bindcard2>http://192.168.11.14:8080/PokerCity/commSafety/identityCardBind.do</bindcard2>
+	<getmobilevalidnum>http://wwwtest.pook.com.cn/commSafety/sendMobileValidNum.do</getmobilevalidnum>
+	<bindmobile>http://wwwtest.pook.com.cn/commSafety/mobileBind.do</bindmobile>
+	<bindemail>http://wwwtest.pook.com.cn/commSafety/emailBind.do</bindemail>
+	<modifypwd>http://wwwtest.pook.com.cn/commSafety/modifyPassword.do</modifypwd>
+	<mobilefindpwd>http://wwwtest.pook.com.cn/commSafety/retrivePasswordByMobile.do</mobilefindpwd>
+	<emailfindpwd>http://wwwtest.pook.com.cn/commSafety/retrivePasswordByEmail.do</emailfindpwd>		
+	<getsafety>http://wwwtest.pook.com.cn/commSafety/getBindUserInfo.do</getsafety>
+	<getsafety2>http://192.168.11.14:8080/PokerCity/commSafety/getBindUserInfo.do</getsafety2>	
+	<chargecenter>http://paytest.pook.com.cn/pay.jsp</chargecenter>
+	<getcardvalue>http://paytest.pook.com.cn/card/query.jsp</getcardvalue>
+</config>

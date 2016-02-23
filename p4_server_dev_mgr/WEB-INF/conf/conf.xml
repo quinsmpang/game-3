@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<debug>1</debug>
+	<outSql>0</outSql>
+	<userUploadServer>1</userUploadServer>
+	<uploadServerPort>5702</uploadServerPort>
+</config>

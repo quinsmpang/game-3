@@ -1,0 +1,8 @@
+﻿
+name=tab_schedule
+
+namenote=计划任务表
+
+field=name,4,50	type,0,4,1	starttime,2,0,1	period,0,11,1	sql,1,1024,1	exectimes,0,11,1	state,0,4,1	savetime,2,0	word1,4,50,1	word2,4,50,1	word3,4,50,1
+
+fieldnote=任务名	任务类型	开始时间	间隔时间(秒)	sql语句	执行次数	状态	创建时间	描述1	描述2	描述3

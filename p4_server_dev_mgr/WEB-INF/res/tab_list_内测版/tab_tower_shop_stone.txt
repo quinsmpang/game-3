@@ -1,0 +1,13 @@
+﻿
+name=tab_tower_shop_stone
+
+namenote=轮回塔商店魂石
+
+field=stone,1,64	price,1,64
+
+fieldnote=魂石	价格
+
+data:
+1,7,2,5	14,500
+1,7,9,5	14,500
+dataEnd

@@ -1,0 +1,16 @@
+
+emotion:
+101.png	/a1
+102.png	/a2
+103.png	/a3
+104.png	/a4
+105.png	/a5
+106.png	/a6
+107.png	/a7
+108.png	/a8
+109.png	/a9
+110.png	/aa
+111.png	/ab
+112.png	/ac
+113.png	/ad
+end

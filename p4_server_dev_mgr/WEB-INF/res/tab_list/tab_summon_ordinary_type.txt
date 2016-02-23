@@ -1,0 +1,17 @@
+﻿
+name=tab_summon_ordinary_type
+
+namenote=普通召唤类型
+
+field=type,0,6	odds,0,6
+
+fieldnote=物品类型	几率
+
+data:
+1	5
+2	1
+3	34
+5	25
+6	20
+7	15
+dataEnd

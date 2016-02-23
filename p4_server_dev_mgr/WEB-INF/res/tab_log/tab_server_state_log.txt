@@ -1,0 +1,8 @@
+﻿
+name=tab_server_state_log
+
+namenote=服务器状态日志
+
+field=servertype,0,1	serverid,0,11	acticonn,0,4	freeconn,0,4	maxconn,0,4	freemem,0,5	totalmem,0,4	maxmem,0,5	totalthread,0,5	createtime,2,0
+
+fieldnote=服务器类型	服务器ID	活动连接	空闲连接	最大连接	空闲内存	分配内存	最大内存	总线程数	创建时间

@@ -1,0 +1,20 @@
+﻿
+name=tab_fac_cm_map
+
+namenote=帮派副本地图
+
+field=num,0,11	name,1,32	bg,1,64	opencond,1,32	cmlist,1,128	resetmoney,0,11	challengeam,0,11
+
+fieldnote=编号	名称	背景底图	开启条件	副本列表	重置所需帮派资金	每日挑战次数
+
+data:
+1	古剑冢	menu_stbg001	1,1	101,105	200	2
+2	不周山	menu_stbg002	2,1	201,205	250	2
+3	苍梧之渊	menu_stbg003	2,2	301,305	300	2
+4	葬神沙漠	menu_stbg004	2,3	401,405	350	2
+5	翠石谷	menu_stbg005	2,4	501,505	400	2
+6	虚无法天	menu_stbg006	2,5	601,605	450	2
+7	幻海	menu_stbg007	2,6	701,705	500	2
+8	飘雪花海	menu_stbg008	2,7	801,805	550	2
+9	修罗界	menu_stbg009	2,8	901,905	600	2
+dataEnd

@@ -1,0 +1,27 @@
+﻿
+data:
+//各级别坑位数量
+posamount=0,50,10
+//开始时间
+opentime=08:00:00,16:00:00
+//每场活动持续时间（分钟）
+continuoustime=240
+//奖励结算单位时间（分钟）
+rewardtime=1
+//免费抢夺次数
+robberynum=10
+//购买抢夺次数价格（金锭）
+buyrobbery=10
+//抢夺失败CD（分钟）
+losetime=1
+//各级别收获倍数
+markon=100,150,200
+dataEnd
+
+//奖励系数（世界等级上限，奖励系数）
+awardpara:
+40	1000
+60	2000
+80	3000
+100	4000
+awardparaEnd

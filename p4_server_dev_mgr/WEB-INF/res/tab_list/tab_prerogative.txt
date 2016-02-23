@@ -1,0 +1,13 @@
+﻿
+name=tab_prerogative
+
+namenote=特权
+
+field=num,0,11	name,1,64	icon,1,64	price,0,11	days,0,11	rebatecoin,0,11	func1,0,11	usetype,1,64	note,1,1024	nextbuy,0,11
+
+fieldnote=编号	名称	图标	价格	时限天	赠送钻石	每日返还金锭数	充值方式	特权描述	剩余天数内可购买
+
+data:
+0	0	0	0	0	0	0	0	0	0
+1	月卡	pay_009	30	30	300	100	21,24	0	3
+dataEnd

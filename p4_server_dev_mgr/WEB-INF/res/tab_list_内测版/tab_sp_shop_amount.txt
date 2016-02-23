@@ -1,0 +1,12 @@
+﻿
+name=tab_sp_shop_amount
+
+namenote=魂点商店物品数量
+
+field=amount1,0,6	amount2,0,6
+
+fieldnote=出魂石数量	出装备碎片数量
+
+data:
+3	5
+dataEnd

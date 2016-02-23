@@ -1,0 +1,22 @@
+﻿
+name=tab_listtab
+
+namenote=数据表查看
+
+field=name,1,32	tabname,1,48
+
+fieldnote=名称	表名
+
+data:
+联运渠道	tab_channel
+帐户渠道	tab_platform
+游戏服	tab_channel_server
+渠道对应充值方式	tab_channel_charge_type
+充值方式	tab_charge_type
+商城团购	tab_mall_groupon
+商城限时优惠	tab_mall_discount
+商城	tab_mall
+功能模块表	tab_function
+礼包	tab_gift
+极速竞猜比赛	tab_rac_games
+dataEnd

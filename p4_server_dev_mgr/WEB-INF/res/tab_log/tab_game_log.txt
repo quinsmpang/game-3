@@ -1,0 +1,8 @@
+﻿
+name=tab_game_log
+
+namenote=游戏日志
+
+field=playerid,0,11	serverid,0,11	act,0,6	consume,1,4000,1	obtain,1,4000,1	remark,1,4000,1	createtime,2,0	factionid,0,11,1	changemoney,0,11,1	nowmoney,0,11,1	sysmoney,0,1,1	changecoin,0,11,1	nowcoin,0,11,1	syscoin,0,1,1
+
+fieldnote=玩家ID	服务器ID	动作编号	消耗	获得	备注	创建时间	帮派ID	铜钱变化值	铜钱当前值	铜钱系统变化	金锭变化值	金锭当前值	金锭系统变化

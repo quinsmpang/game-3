@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="gbk"?>
+<permissionList>
+	<module name="基本数据">
+		<permission>服务器管理</permission>
+		<permission>参数设置</permission>
+	</module>
+	<module name="数据维护">
+		<permission>文件管理</permission>
+	</module>
+</permissionList>

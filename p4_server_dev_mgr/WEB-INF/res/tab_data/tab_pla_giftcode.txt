@@ -1,0 +1,12 @@
+﻿
+name=tab_pla_giftcode
+
+namenote=角色礼包码
+
+field=playerid,0,11	erroram,0,2	totalerroram,0,8	unbannedtime,2,0,1
+
+fieldnote=角色ID	错误次数	总错误次数	解封时间
+
+index:
+playerid	2	ind_pla_giftcode_pid
+indexEnd

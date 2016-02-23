@@ -1,0 +1,8 @@
+﻿
+name=tab_activate_code
+
+namenote=激活码
+
+field=code,1,10	publish,0,11,1	publish_time,2,0,1	activated,0,11,1	activate_user,1,20,1	activate_time,2,0,1	lottery,0,11,1	lottery_time,2,0,1	channel,1,10,1	phone,1,20,1	starttime,2,0,1	ip,1,20,1	method,0,11,1	createuser,1,32,1	create_time,2,0	publish_user,1,20	mark,1,32
+
+fieldnote=激活码	是否已分发	分发时间	是否已激活	激活用户	激活时间	是否已参加抽奖	参加抽奖时间	渠道	手机	预约开始时间	ip地址	获取方式	创建者	生成时间	领取用户	生成标记

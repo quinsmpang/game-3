@@ -1,0 +1,15 @@
+﻿
+name=tab_buy_money
+
+namenote=买铜钱
+
+field=minam,0,11	maxam,0,11	needcoin,0,11
+
+fieldnote=次数下限	次数上限	金锭数
+
+data:
+1	1	10
+2	3	15
+4	10	20
+11	5000	50
+dataEnd

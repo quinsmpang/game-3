@@ -1,0 +1,8 @@
+﻿
+name=tab_pla_supply
+
+namenote=角色补给
+
+field=playerid,0,11	buymoneyam,0,11	buyenergyam,0,11	gettqaward,0,11
+
+fieldnote=角色ID	买铜钱次数	买体力次数	是否已领取特权奖励

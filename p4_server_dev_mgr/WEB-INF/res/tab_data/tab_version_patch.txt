@@ -1,0 +1,8 @@
+﻿
+name=tab_version_patch
+
+namenote=程序补丁版本
+
+field=channel,1,3,1	packagename,1,50,1	fromversion,1,16,1	toversion,1,16,1	patchfile,1,50,1	filesize,0,0,1	savetime,2,0,1	subfolder,1,5,1	platform,0,1	crc,1,10
+
+fieldnote=渠道	包名	旧版本号	新版本号	压缩文件	文件大小	更新时间	子目录	平台类型	文件CRC

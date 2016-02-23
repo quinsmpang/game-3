@@ -1,0 +1,18 @@
+﻿
+name=tab_cb_fatigue
+
+namenote=国战疲劳
+
+field=minam,0,11	maxam,0,11	minusperc,0,11
+
+fieldnote=战斗场次下限	战斗场次上限	能力降低百分比
+
+data:
+1	1	1
+2	2	2
+3	3	2
+4	4	3
+5	7	4
+8	9	5
+10	9999	10
+dataEnd

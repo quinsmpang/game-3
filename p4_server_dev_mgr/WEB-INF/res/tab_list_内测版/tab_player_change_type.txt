@@ -1,0 +1,18 @@
+﻿
+name=tab_player_change_type
+
+namenote=玩家处理设置表
+
+field=type,0,4	name,1,20	tabname,1,32	columnname,1,30	classname,1,32	changetype,0,1
+
+fieldnote=编号	名称	表名	字段名	类名	修改方式
+
+data:
+1	金币	tab_player	money	PlayerBAC	1
+3	钻石	tab_player	coin	PlayerBAC	1
+7	功勋	tab_pla_faction	factioncon	PlaFacBAC	1
+14	VIP	tab_player	vip	PlayerBAC	2
+15	特权	tab_player	tqnum	PlayerBAC	2
+16	特权到期时间	tab_player	tqduetime	PlayerBAC	3
+17	体力	tab_pla_role	energy	PlaRoleBAC	1
+dataEnd

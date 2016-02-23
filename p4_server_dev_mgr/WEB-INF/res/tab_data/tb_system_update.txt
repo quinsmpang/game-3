@@ -1,0 +1,8 @@
+﻿
+name=tb_system_update
+
+namenote=系统更新
+
+field=server,1,32	updfile,1,255	savetime,2,0	filesize,0,12
+
+fieldnote=服务器	更新文件名	更新时间	文件大小

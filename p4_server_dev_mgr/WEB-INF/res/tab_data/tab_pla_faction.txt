@@ -1,0 +1,12 @@
+﻿
+name=tab_pla_faction
+
+namenote=角色家族
+
+field=playerid,0,11	factionid,0,11,1	facname,1,16,1	position,0,2,1	factioncon,0,11	cbpartnerrelivedata,1,1024	leadercdendtime,2,0,1	getwelfare,0,11	worship1,0,11	worship2,0,11	beworship,1,32	cmdata,1,512	jointime,2,0,1
+
+fieldnote=角色ID	所在家族ID	家族名	所在家族职位	帮派功勋	国战伙伴复活数据	太守争夺冷却结束时间	是否已领取帮派福利	是否已铜钱膜拜	是否已钻石膜拜	被膜拜累计奖励	帮派副本数据	加入或退出家族时间
+
+index:
+playerid	2	ind_pla_fac_pid
+indexEnd

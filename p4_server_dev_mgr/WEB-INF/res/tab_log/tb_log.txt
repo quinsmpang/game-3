@@ -1,0 +1,12 @@
+﻿
+name=tb_log
+
+namenote=系统日志
+
+field=username,4,50,1	act,4,20,1	param1,4,1024,1	ip,1,20,1	savedate,2,0,1
+
+fieldnote=系统用户名	动作	动作参数	用户IP	保存时间
+
+index:
+id	2	ind_log_id
+indexEnd

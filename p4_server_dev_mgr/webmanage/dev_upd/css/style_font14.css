@@ -1,0 +1,145 @@
+legend {  font-size: 14px}
+.btn1 {  font-size: 14px;background-color: #EFEFEF; border-color: #FFFFFF #000000 #000000 #FFFFFF; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px}
+td {  font-size: 14px}
+fieldset {  padding-top: 5px; padding-right: 5px; padding-bottom: 5px; padding-left: 5px; font-size: 14px}
+.input1 {  border: 1px #000000 solid; background-color: #F5F9F2}
+.listtopbgc {  background-color: #CFDCAF}
+.listbgc_over {  background-color: #F6F6F6}
+.listbgc_click { background-color: #DEF3E0}
+.titlebgc {  background-color: #DFDFDF}
+.input2 { border: 0px transparent solid; background-color: transparent; color: transparent; font-size: 14px; text-align: right}
+.input3 { border: solid; background-color: transparent; border-width: 0px 0px 1px; border-color: transparent transparent #387C8B; color: #2D6373}
+.input3red { border: solid; background-color: transparent; border-width: 0px 0px 1px; border-color: transparent transparent #FF0000; color: #2D6373}
+.toolbar_btn_over { border-color: #FFFFFF #808080 #808080 #FFFFFF; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px}
+.toolbar_btn_down { border-color: #808080 #FFFFFF #FFFFFF #808080; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px}
+.toolbar_btn { border: #efefef; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px}
+.menuitem_up { border-color: #FFFFFF #000000 #000000 #FFFFFF; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px}
+.menuitem_down { border-color: #000000 #FFFFFF #FFFFFF #000000; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px}
+.menuitem { border: #1c4b7d; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px}
+.menubar_up { border-color: #FFFFFF #505050 #505050 #FFFFFF##505050 ##505050 #FFFFFF; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px}
+.menubar_down { border-color: ##505050 #FFFFFF #FFFFFF ##505050; border-color: #505050 #FFFFFF #FFFFFF #505050; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px}
+.menubar { border: 1px solid; border-color: #FFFFFF #505050 #505050 #FFFFFF}
+.menuitem_over { border-color: #FFFFFF #000000 #000000 #FFFFFF; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px }
+.btntd { border-color: #FFFFFF #000000 #000000 #FFFFFF; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px}
+.btntddown { border-color: #808080 #FFFFFF #FFFFFF #808080; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px }
+.listTopCell { border-color: #FFFFFF #000000 #000000 #FFFFFF; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px }
+.listTopCelldown { border-color: #808080 #FFFFFF #FFFFFF #808080; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px }
+.select1 {  font-size: 14px; background-color: #EFEFEF}
+.input_submit { border: 1px solid; background-color: transparent; border-color: #FFFFFF #000000 #000000 #FFFFFF; font-size: 14px}
+.legend1 {  color: #000000; font-weight: bold}
+.btntd_mousedown { border-color: #000000 #FFFFFF #FFFFFF #000000; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px}
+.select2 {  background-color: #BEDEE4; border: 1px #000000 solid}
+.input_login {  background-color: #F3F8EF; border: #000000; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px}
+select {  font-size: 14px}
+.listnrbgc1 {  background-color: #EFEFEF}
+.input4 { font-size:14px;border: 1px #387C8B solid; background-color: #FFFFFF; color: #2D6373 ; height: 15px; padding-top: 0px; padding-bottom: 0px}
+.errorinput {
+	border: 1px #FF0000 solid;
+	background-color: #FFFFFF;
+	color: #2D6373;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	font-size: 14px;
+}
+.input4right {
+	font-size:14px;
+	border: 1px #387C8B solid;
+	background-color: #FFFFFF;
+	color: #2D6373;
+	text-align: right;
+	font-size: 14px;
+	height: 15px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+.input5right { font-size:14px;border: 1px #387C8B solid; background-color: #FFFFFF; text-align: right }
+.tbbgc1 {  background-color: #848284}
+.nrbgc1 {  background-color: #EFEFEF}
+.selbgc1 {  background-color: #C1CDD8}
+a {  color: #39753A; text-decoration: none}
+.input5 {
+	border: 1px #387C8B solid;
+	background-color: #FFFFFF;
+	color: #2D6373;
+	font-size: 14px;
+}
+.u1 {
+	color: #A96232;
+
+}
+.input4right_import {
+font-size:14px;border: 1px solid #1430CD; background-color: #FFFFFF; color: #1430CD; text-align: right; font-size: 14px; height: 15px; padding-top: 0px; padding-bottom: 0px
+}
+.input4_import {
+font-size:14px;border: 1px solid #1430CD; background-color: #FFFFFF; color: #1430CD; text-align: right; font-size: 14px; height: 15px; padding-top: 0px; padding-bottom: 0px
+}
+.pno {
+	font-weight: bold;
+	color: #FF3300;
+	font-size: 16px;
+
+}
+.copiee {
+	font-weight: bold;
+	color: #FF3300;
+	font-size: 13px;
+
+}
+.copier {
+	font-weight: bold;
+	color: #2D6373;
+	font-size: 13px;
+
+}
+.inputpno { font-size:16px;border: 1px #387C8B solid; background-color: #FFFFFF; color: #ff0000; height: 20px; padding-top: 0px; padding-bottom: 0px}
+.rolelist {
+	font-size: 14px;
+	width: 150px;
+}
+.teacherlist {
+	font-size: 14px;
+	width: 100px;
+}
+.submitimg {
+	vertical-align: bottom;
+}
+.file1 {
+	font-size: 14px;
+}
+textarea {
+	font-size: 14px;
+}
+.lineheight1 {
+	line-height: 140%;
+}
+.font16bold {
+	font-size: 16px;
+	font-weight: bold;
+}
+.bluebgc1 {
+	background-color: #00CCFF;
+}
+.redbgc1 {
+	background-color: #FF9999;
+}
+.whitebgc {
+	background-color: #FFFFFF;
+}
+.font14 {
+	font-size: 14px;
+}
+.keyword1 {
+	color: A51A0E;
+}
+.status_editing {
+	color: #A85B0F;
+}
+.status_auditing {
+	color: #2B41DB;
+}
+.status_passed {
+	color: #336633;
+}
+.status_notpass {
+	color: #E70303;
+}

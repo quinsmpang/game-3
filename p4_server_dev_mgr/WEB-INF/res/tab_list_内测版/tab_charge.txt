@@ -1,0 +1,19 @@
+﻿
+name=tab_charge
+
+namenote=充值
+
+field=num,0,6	iconpath,1,64	rmb,0,6	coin,0,7	usetype,1,64	rebatecoin,0,7
+
+fieldnote=编号	对应文件名	对应rmb	对应钻石数	可充值方式	赠送钻石
+
+data:
+1	Shared/ItemIcon-GUIHW/vip_10	10	100	21,24,8	0
+2	Shared/ItemIcon-GUIHW/vip_30	30	300	21,24,8	0
+3	Shared/ItemIcon-GUIHW/vip_50	50	500	21,24,8	0
+4	Shared/ItemIcon-GUIHW/vip_100	100	1000	21,24,8	0
+5	Shared/ItemIcon-GUIHW/vip_200	200	2000	21,24	0
+6	Shared/ItemIcon-GUIHW/vip_500	500	5000	21,24	0
+7	Shared/ItemIcon-GUIHW/vip_1000	1000	10000	21,24	0
+8	Shared/ItemIcon-GUIHW/vip_2000	2000	20000	21,24	0
+dataEnd

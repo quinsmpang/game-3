@@ -1,0 +1,12 @@
+﻿
+name=tab_pla_team
+
+namenote=角色组队
+
+field=playerid,0,11	serverid,0,11	times,0,11
+
+fieldnote=角色ID	服务器ID	挑战次数
+
+index:
+playerid	2	ind_pla_team_pid
+indexEnd

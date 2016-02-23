@@ -1,0 +1,8 @@
+﻿
+name=tab_infull_prop_log
+
+namenote=高级货币开洗分日志
+
+field=user_id,0,20,1	user_name,1,64,1	agent_name,1,16,1	game_name,1,64,1	money_type,1,16,1	type,0,11,1	award_type,0,11,1	award_num,0,11,1	begin_num,0,11,1	end_num,0,11,1	client_ip,1,64,1	related_num,1,128,1	createtime,2,0
+
+fieldnote=用户id	用户昵称	渠道	游戏名	货币名称	开洗分类型	类型	金额	开始值	结束值	ip地址	充值订单	创建时间

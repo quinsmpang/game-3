@@ -1,0 +1,13 @@
+﻿
+name=tab_jj_shop_stone
+
+namenote=竞技商店魂石
+
+field=stone,1,64	price,1,64
+
+fieldnote=魂石	价格
+
+data:
+1,7,41,5	10,500
+1,7,9,5	10,500
+dataEnd

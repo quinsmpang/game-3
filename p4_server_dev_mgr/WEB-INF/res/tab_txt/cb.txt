@@ -1,0 +1,58 @@
+﻿
+data:
+//允许宣战起始时间
+declarewarstarttime=09:00:00
+//允许宣战终止时间
+declarewarendtime=22:00:00
+//允许参战起始时间
+joinwarstarttime=09:00:00
+//允许参战终止时间
+joinwarendtime=23:00:00
+//城市资金产出起始时间
+cityoutputstarttime=09:00:00
+//城市资金产出终止时间
+cityoutputendtime=23:00:00
+//宣战时长（分钟）
+declarewarwaittimelen=2
+//战斗间隔时长（秒）
+battlespacetimelen=20
+//免战时长（分钟）
+nowartimelen=10
+//城防并回复速度（每小时）
+npcrecoverspeed=1
+//太守争夺起始时间
+leaderstarttime=09:00:00
+//太守争夺终止时间
+leaderendtime=20:00:00
+//太守争夺时间间隔（分钟）
+leaderspacetimelen=10
+//太守奖励发放时间
+leaderawardissuetime=00:00:00
+//太守放弃时间间隔（分钟）
+leadergiveupspacetimelen=10
+//助攻消耗体力数
+assist=6
+//世界等级刷新时间
+worldclassrefresh=18:00:00
+//战斗动作播放间隔（秒）客户端用
+battleactiontimelen=1.5
+//复活价格
+reliveprice=20
+dataEnd
+
+invadescale:
+1	10,10
+2	15,15
+3	20,20
+invadescaleEnd
+
+invadeinfluence:
+1	<color=#ff5bd1>刑天</color>
+invadeinfluenceEnd
+
+invadedeclare:
+9:15:00	0	2
+12:30:00	0	6
+15:00:00	0	2
+19:30:00	0	6
+invadedeclareEnd

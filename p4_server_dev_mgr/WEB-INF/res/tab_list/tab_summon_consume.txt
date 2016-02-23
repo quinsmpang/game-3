@@ -1,0 +1,14 @@
+﻿
+name=tab_summon_consume
+
+namenote=召唤消耗
+
+field=num,0,6	name,1,30	free,0,6	price1,1,64	price2,1,64
+
+fieldnote=编号	名称	每日免费次数	非免费单抽价格	十连价格
+
+data:
+1	普通召唤	1	15,1	15,9
+2	至尊召唤	1	2,200	2,1800
+4	神秘召唤	0	2,400	-1
+dataEnd

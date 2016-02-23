@@ -1,0 +1,13 @@
+﻿
+name=tab_friend
+
+namenote=好友
+
+field=playerid,0,11	friendid,0,11	type,0,2
+
+fieldnote=角色编号	好友编号	类型
+
+index:
+playerid	1	ind_friend_pid
+friendid	1	ind_friend_fid
+indexEnd

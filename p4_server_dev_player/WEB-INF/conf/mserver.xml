@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<url>http://192.168.12.4:112/game_user/</url>
+	<webdir>dev_web/</webdir>
+</config>

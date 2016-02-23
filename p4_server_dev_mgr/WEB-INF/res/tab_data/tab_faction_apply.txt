@@ -1,0 +1,13 @@
+﻿
+name=tab_faction_apply
+
+namenote=帮派申请库
+
+field=playerid,0,11	factionid,0,11	applytime,2,0
+
+fieldnote=角色编号	帮派编号	申请时间
+
+index:
+playerid	1	ind_fac_apply_pid
+factionid	1	ind_fac_apply_facid
+indexEnd

@@ -1,0 +1,12 @@
+﻿
+name=tab_platform_gift_code
+
+namenote=平台礼包领取码
+
+field=platform,1,3	code,1,20	giftcode,0,3	playerid,0,10	gived,0,1	givetime,2,0,1	publish,0,1,1	publishtime,2,0,1	phonenumber,1,20,1	serverid,0,10,1	repeat,0,1,1	expiretime,2,0,1	createuser,1,32,1	createtime,2,0,1
+
+fieldnote=推广平台编号	礼包领取码	平台礼包编号	领取的玩家id	是否已领取	领取时间	 是否已分发	分发时间	分发给的手机号码	游戏服	可重复使用	过期时间	创建者	创建时间
+
+index:
+id	2	ind_platform_gc_id
+indexEnd

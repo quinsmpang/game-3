@@ -1,0 +1,8 @@
+﻿
+name=tab_notice
+
+namenote=游戏公告
+
+field=serverid,0,11	title,1,64	content,1,4000	createtime,2,0	overtime,2,0,1	loopshow,0,1
+
+fieldnote=服务器ID	标题	内容	创建时间	过期时间	重复显示

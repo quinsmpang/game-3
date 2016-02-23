@@ -1,0 +1,8 @@
+﻿
+name=tab_custom_activity
+
+namenote=自定义活动
+
+field=name,1,32	actitype,0,11	showtime,2,0	starttime,2,0	endtime,2,0,1	hidetime,2,0,1	note,1,512	award,1,1024,1	imgurl,1,128,1	layout,0,3	server,1,512	channel,1,1024	opentime,2,0	expirationlen,0,11
+
+fieldnote=活动名称	活动类型	显示时间	开始时间	结束时间	隐藏时间	活动说明	活动奖励	配图	活动布局	服务器	渠道	限定开服时间	过期时长

@@ -1,0 +1,8 @@
+﻿
+name=tab_sts_http_log
+
+namenote=STS-HTTP日志
+
+field=reqtime,2,0,1	reqflow,0,10,1	act,0,6,1,1	reqserver,1,32,1	respserver,1,32,1	resptime,2,0,1	respflow,0,10,1	respresult,0,1,1	respdatatype,0,2,1	usedtime,0,8,1	uploadtime,0,8,1	downloadtime,0,8,1
+
+fieldnote=请求时间	请求流量	请求类型	请求服务器	响应服务器	返回时间	返回流量	返回结果	返回数据类型	用时(ms)	上传用时(ms)	下载用时(ms)

@@ -1,0 +1,22 @@
+﻿
+name=tab_jjc_pc
+
+namenote=竞技场假人
+
+field=minranking,0,11	maxranking,0,11	grownum,0,11
+
+fieldnote=排名下限	排名上限	一键成长编号
+
+data:
+1	1	5
+2	2	5
+3	3	5
+4	10	6
+11	50	6
+51	100	7
+101	200	7
+201	500	8
+501	1000	8
+1001	3000	9
+3001	5000	9
+dataEnd

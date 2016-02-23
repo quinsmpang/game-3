@@ -1,0 +1,12 @@
+﻿
+name=tb_user_channel
+
+namenote=系统用户渠道
+
+field=username,1,20,1	channel,1,3,1
+
+fieldnote=系统用户名	所属渠道
+
+index:
+id	2	ind_user_channel_id
+indexEnd

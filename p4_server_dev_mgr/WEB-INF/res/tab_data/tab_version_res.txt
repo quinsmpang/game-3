@@ -1,0 +1,8 @@
+﻿
+name=tab_version_res
+
+namenote=资源版本
+
+field=version,1,16	updfile,1,255	savetime,2,0	mustupdate,0,1	filesize,0,12	platform,0,11	hidden,0,11,1	subfolder,1,2,1
+
+fieldnote=版本号	压缩文件	更新时间	强制更新	文件大小	平台	隐藏更新	子目录

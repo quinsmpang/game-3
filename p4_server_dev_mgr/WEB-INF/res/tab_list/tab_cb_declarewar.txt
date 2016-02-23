@@ -1,0 +1,12 @@
+﻿
+name=tab_cb_declarewar
+
+namenote=国战宣战消耗
+
+field=minam,0,11	maxam,0,11	needfacmoney,0,11
+
+fieldnote=次数下限	次数上限	消耗帮派资金
+
+data:
+1	99999999	0
+dataEnd

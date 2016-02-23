@@ -1,0 +1,12 @@
+﻿
+name=tab_pla_role
+
+namenote=角色人物
+
+field=playerid,0,11	serverid,0,11	energy,0,11	energystarttime,2,0	soulpoint,0,11	eqsmeltfailam,1,32	jjccoin,0,11	artifactdata,1,1024	artifactendtime,2,0,1	artifactprotecttimes,0,11	artifactrobtimes,0,11	artifactrobstarttime,2,0	towercoin,0,11	moneytimes,0,11	exptimes,0,11	partnertimes,1,512	present,1,1024	bepresent,1,1024	deletefriend,1,1024	totalbattlepower,0,11
+
+fieldnote=角色ID	服务器ID	体力	结算体力起始时间	魂点	装备熔炼失败次数	竞技币	神器数据	神器碎片保护结束时间	开启保护次数	神器碎片抢夺次数	结算抢夺次数起始时间	塔币	每日铜钱试炼次数	每日经验试炼次数	每日伙伴试炼次数	赠送好友数据	被好友赠送数据	删除好友数据	总战力
+
+index:
+playerid	2	ind_pla_role_pid
+indexEnd

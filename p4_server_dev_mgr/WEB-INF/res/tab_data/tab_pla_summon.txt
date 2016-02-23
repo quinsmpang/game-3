@@ -1,0 +1,12 @@
+﻿
+name=tab_pla_summon
+
+namenote=角色召唤
+
+field=playerid,0,11	daily1,0,11	total1,0,11	daily2,0,11	single2,0,11	total2,0,11	multi2,0,11	summonprop,0,11
+
+fieldnote=角色ID	每日普通召唤次数	普通召唤总次数	每日单次至尊召唤次数	是否进行过首次消耗金锭	至尊召唤总次数	至尊十连总次数	召唤道具数量
+
+index:
+playerid	2	ind_pla_summon_pid
+indexEnd

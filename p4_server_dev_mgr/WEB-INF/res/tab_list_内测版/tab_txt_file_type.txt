@@ -1,0 +1,14 @@
+﻿
+name=tab_txt_file_type
+
+namenote=TXT文件类型
+
+field=type,0,6	name,1,16
+
+fieldnote=类型	名称
+
+data:
+1	等级排行
+2	鲜花排行
+3	竞技场排行
+dataEnd

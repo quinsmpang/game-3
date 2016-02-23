@@ -1,0 +1,8 @@
+﻿
+name=tab_msg_log
+
+namenote=聊天消息日志
+
+field=serverid,0,10	playerid,0,11	channel,0,3	friendid,0,11,1	factionid,0,11,1	type,0,1	content,1,512,1	savetime,2,0
+
+fieldnote=服务器ID	角色ID	频道	好友ID	帮派ID	消息类型	消息内容	保存时间

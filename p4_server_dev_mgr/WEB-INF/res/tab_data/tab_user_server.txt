@@ -1,0 +1,8 @@
+﻿
+name=tab_user_server
+
+namenote=用户服务器
+
+field=name,1,32	http,1,128
+
+fieldnote=名称	HTTP

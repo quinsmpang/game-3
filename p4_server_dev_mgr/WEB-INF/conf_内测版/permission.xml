@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="gbk"?>
+<permissionList>
+	<module name="充值管理">
+		<permission>充值总览</permission>
+		<permission>充值记录</permission>
+		<permission>发货单查询</permission>
+	</module>
+	<module name="充值统计">	    		
+		<permission>充值走势图</permission>
+		<permission>充值排行</permission>
+		<permission>充值渠道数据分析</permission>
+		<permission>充值地域数据分析</permission>
+		<permission>充值数据综合分析</permission>
+	</module>
+	<module name="运营统计">
+		<permission>留存率统计</permission>
+		<permission>流失率统计</permission>		
+		<permission>单日角色数据分析</permission>
+	</module>
+	<module name="市场统计">
+	    <permission>数据汇总</permission>
+	    <permission>在线人数统计</permission>
+	    <permission>数据对比</permission>
+	    <permission>服务器数据汇总</permission>
+	    <permission>每日玩家数据</permission>
+	    <permission>每日用户数据</permission>
+	    <permission>渠道注册比例分析</permission>
+	    <permission>充值分析表</permission>
+	    <permission>每日运营数据</permission>
+	</module>
+	<module name="财务报表">	    		
+		<permission>SDK渠道充值</permission>		
+		<permission>无SDK渠道充值</permission>
+	</module>
+	<module name="客服管理">
+		<permission>玩家日志</permission>
+		<permission>玩家数据</permission>
+		<permission>玩家聊天</permission>
+		<permission>mac禁言</permission>	
+		<permission>消息管理</permission>
+	</module>
+	<module name="玩家管理">
+		<permission>帐号管理</permission>		
+		<permission>角色管理</permission>
+		<permission>玩家操作</permission>
+		<permission>玩家操作日志</permission>			
+		<permission>玩家处理</permission>
+		<permission>玩家处理日志</permission>
+		<permission>用户登录日志</permission>
+		<permission>TXT管理</permission>
+		<permission>玩家财产管理</permission>
+	</module>
+	<module name="游戏管理">
+		<permission>激活码</permission>
+		<permission>兑换码</permission>
+		<permission>平台礼包码</permission>
+		<permission>数据报表</permission>
+		<permission>游戏活动管理</permission>
+		<permission>系统公告管理</permission>
+		<permission>敏感词库</permission>
+		<permission>邮件管理</permission>
+	</module>
+	<module name="版本更新">
+		<permission>APK版本</permission>
+		<!--  
+		<permission>升级补丁</permission>
+		-->		
+		<permission>升级资源包</permission>
+		<permission>资源列表CRC</permission>
+	</module>
+	<module name="基本数据">
+		<permission>参数设置</permission>
+		<permission>低端机型设置</permission>
+		<permission>数据表查看</permission>
+	</module>
+	<module name="服务器管理">
+		<permission>用户服务器</permission>
+		<permission>游戏服务器</permission>
+		<permission>合并服务器</permission>
+		<permission>服务器状态监控</permission>
+		<permission>服务器异常邮箱</permission>
+		<permission>访问服务器异常日志</permission>
+	</module>
+	<module name="数据维护">
+		<permission>SQL查询</permission>
+		<permission>文件管理</permission>
+		<permission>数据更新</permission>
+		<permission>服务器维护</permission>
+		<permission>计划任务</permission>
+	</module>
+</permissionList>

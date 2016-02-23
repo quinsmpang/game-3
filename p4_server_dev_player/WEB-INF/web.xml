@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+	<display-name>game</display-name>  
+  
+  <welcome-file-list>
+		<welcome-file>index.jsp</welcome-file>
+		<welcome-file>index.wml</welcome-file>	
+		<welcome-file>index.htm</welcome-file>
+	</welcome-file-list>
+	
+	  
+  <servlet>
+    <servlet-name>GameServlet</servlet-name>
+    <servlet-class>com.moonic.servlet.GameServlet</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+    <servlet-name>GameServlet</servlet-name>
+    <url-pattern>/game.do</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+    <servlet-name>DownloadServlet</servlet-name>
+    <servlet-class>com.moonic.servlet.DownloadServlet</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+    <servlet-name>DownloadServlet</servlet-name>
+    <url-pattern>/download.do</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+    <servlet-name>STSServlet</servlet-name>
+    <servlet-class>com.moonic.servlet.STSServlet</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+    <servlet-name>STSServlet</servlet-name>
+    <url-pattern>/sts.do</url-pattern>
+  </servlet-mapping>
+  
+  <!-- 将请求的字符串重新编码为 UTF-8 -->
+  <filter>
+  	<filter-name>TomcatFormFilter</filter-name> 
+  	<filter-class>filter.TomcatFormFilter</filter-class> 
+  </filter>
+   
+  <filter-mapping>
+  	<filter-name>TomcatFormFilter</filter-name> 
+  	<url-pattern>/*</url-pattern> 
+  </filter-mapping>
+  <!-- 将请求的字符串重新编码为 UTF-8 -->
+	
+  <listener>
+  	<listener-class>server.config.ServerConfig</listener-class>
+  </listener>
+
+  
+</web-app>

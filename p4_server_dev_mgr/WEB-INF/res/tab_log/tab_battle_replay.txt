@@ -1,0 +1,12 @@
+﻿
+name=tab_battle_replay
+
+namenote=战斗日志
+
+field=battleid,0,20	replaydata,3,0	expirationtime,2,0	battlefrom,0,11
+
+fieldnote=战斗ID	数据	过期时间	来源
+
+index:
+battleid	2	ind_bat_replay_batid
+indexEnd

@@ -1,0 +1,12 @@
+﻿
+name=tab_channel_server
+
+namenote=渠道服务器
+
+field=vsid,0,10	channel,1,10	serverid,0,10	servername,4,50	disporder,0,10	visible,0,1	state,0,1	opentime,1,32	tip,0,1	note,1,20,1	istest,0,1
+
+fieldnote=虚拟服务器ID	渠道	服务器ID	服务器别名	显示顺序	是否可见	状态	开服时间	标签	维护说明	测试服
+
+data:
+1	001	1	测试1区	1	1	-1	-1	-1	-1	0
+dataEnd

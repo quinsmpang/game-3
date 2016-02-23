@@ -1,0 +1,28 @@
+﻿
+name=tab_game_push_msg
+
+namenote=游戏推送
+
+field=num,0,8	content,1,1024	otherchannel,1,16	showchannel,0,2	allowignore,0,1
+
+fieldnote=编号	内容	额外频道	首发频道	是否允许忽略
+
+data:
+1	<color=#ffcc00><color=#ff0000>{0}</color>成功将<color=#ff5bd1>{1}</color>升至<color=#ff0000>{2}星</color>！从而得到了更强的力量！</color>	5	4	0
+2	<color=#ffcc00><color=#ff0000>{0}</color>成功将<color=#ff5bd1>{1}</color>提升至<color=#ff0000>{2}星</color>！从而得到了更强的力量！</color>	5	4	0
+3	<color=#ffcc00><color=#ff0000>{0}</color>经过不断的努力，使用魂石激活了<color=#ff5bd1>{1}</color>！</color>	5	4	0
+4	<color=#ffcc00><color=#ff0000>{0}</color>人品爆发，熔炼装备时竟获得了<color=#ff5bd1>{1}</color>！真羡煞旁人！</color>	5	4	0
+5	<color=#ffcc00>公告天下：<color=#ff0000>{0}</color>在竞技场成功击败<color=#ff0000>{1}</color>，成为了新的王者！！</color>	5	4	0
+6	<color=#ffcc00><color=#ff5bd1>{0}</color>向<color=#00ccff>{1}</color>宣战，将于30分钟后开始总攻！</color>	5	4	0
+7	<color=#ffcc00>在刚刚结束的仙界大战中，<color=#ff5bd1>{0}</color>大获全胜！攻占<color=#00ccff>{1}</color>！</color>	5	4	0
+8	<color=#ffcc00>在刚刚结束的仙界大战中，<color=#ff5bd1>{0}</color>进攻<color=#00ccff>{1}</color>失利！遭遇惨败！</color>	5	4	0
+9	<color=#ffcc00>仙界征伐即将在<color=#ff0000>10分钟</color>后开启，兄弟们准备开战吧！</color>	5	4	0
+10	<color=#ffcc00>仙界征伐宣战时间只剩最后<color=#ff0000>10分钟</color>了，战机稍纵即逝！</color>	5	4	0
+11	<color=#ffcc00>仙界征伐参战时间只剩最后<color=#ff0000>10分钟</color>了，届时将无法再参与战斗，请抓住最后的机会！</color>	5	4	0
+12	<color=#ffcc00><color=#ff0000>{0}</color>成功击败<color=#ff0000>{1}</color>夺得<color=#00ccff>{2}</color>首席！</color>	1	4	0
+13	<color=#ffcc00>首席争夺战即将在<color=#ff0000>10分钟</color>后开启，仙界最强者将在你们中间诞生！</color>	5	4	0
+14	<color=#ffcc00>首席争夺战只剩最后<color=#ff0000>10分钟</color>了！大家加油！</color>	5	4	0
+15	<color=#ffcc00>距离<color=#ff0000>世界BOSS</color>活动开始只剩<color=#ff0000>10分钟</color>了！海量的奖励正在向你招手！</color>	5	4	0
+16	<color=#ffcc00><color=#ff0000>世界BOSS</color>开始了！大家赶快揍它，揍得越狠奖励越多！</color>	5	4	0
+17	<color=#ffcc00><color=#ff0000>世界BOSS</color>已经结束！激情期待下回！</color>	5	4	0
+dataEnd

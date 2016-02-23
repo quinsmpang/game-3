@@ -1,0 +1,8 @@
+﻿
+name=tab_sys_mail_send_log
+
+namenote=系统邮件发送日志
+
+field=title,1,32	content,1,512	adjunct,1,128,1	filtercond,1,64,1	tgr,0,1	createmark,1,16,1	server,1,512,1	channel,1,1024,1	stopsend,0,1	endtime,2,0,1	createtime,2,0
+
+fieldnote=标题	内容	附件	对象筛选条件	发送对象类型	玩家列表文件名	发送服务器	发送渠道	停发	失效时间	创建时间

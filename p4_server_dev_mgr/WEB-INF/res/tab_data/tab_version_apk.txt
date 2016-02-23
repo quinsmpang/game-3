@@ -1,0 +1,8 @@
+﻿
+name=tab_version_apk
+
+namenote=程序版本
+
+field=version,1,16	updfile,1,255	savetime,2,0	mustupdate,0,1	filesize,0,12	channel,1,3	subfolder,1,5,1	platform,0,1	crc,1,10
+
+fieldnote=版本号	压缩文件	更新时间	强制更新	文件大小	渠道	子目录	平台类型	文件CRC

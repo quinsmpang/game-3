@@ -1,0 +1,8 @@
+﻿
+name=tab_txt_file
+
+namenote=文本日志
+
+field=serverid,0,11	type,0,2	filename,1,32	createtime,2,0
+
+fieldnote=服务器ID	类型	文件名	创建时间

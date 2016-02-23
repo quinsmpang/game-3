@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="gbk"?>
+<menu>
+	<menubar name="充值管理">
+	    <menuitem icon="icon_addmoney.gif" link="../info/frame.jsp?title=充值总览&amp;link=queryAllOrderLog.jsp" module="充值管理" permission="充值总览" visible="1">充值总览</menuitem>
+	    <menuitem icon="icon_addmoney.gif" link="../info/frame.jsp?title=充值记录&amp;link=queryAllOrderLogRecord.jsp" module="充值管理" permission="充值记录" visible="1">充值记录</menuitem>
+		<menuitem icon="icon_returngoodstosaler.gif" link="../info/frame.jsp?title=发货单查询&amp;link=charge_send_page_list.jsp" module="充值管理" permission="发货单查询" visible="1">发货单查询</menuitem>
+	</menubar>
+	<menubar name="充值统计">	    
+		<menuitem icon="icon_stat2.gif" link="../stat/frame.jsp?title=充值走势图&amp;link=charge_stat.jsp" module="充值统计" permission="充值走势图" visible="1">充值走势图</menuitem>
+		<menuitem icon="icon_report.gif" link="../stat/frame.jsp?title=充值排行&amp;link=charge_top50.jsp" module="充值统计" permission="充值排行" visible="1">充值排行</menuitem>
+		<menuitem icon="icon_report.gif" link="../stat/frame.jsp?title=充值渠道数据统计&amp;link=statChargeChannelData.jsp" module="充值统计" permission="充值渠道数据分析" visible="1">充值渠道数据分析</menuitem>
+		<menuitem icon="icon_report.gif" link="../stat/frame.jsp?title=充值地域数据分析&amp;link=statisticalChargeAreaData.jsp" module="充值统计" permission="充值地域数据分析" visible="1">充值地域数据分析</menuitem>
+		<menuitem icon="icon_report.gif" link="../stat/frame.jsp?title=充值数据综合分析&amp;link=statisticalOrderData.jsp" module="充值统计" permission="充值数据综合分析" visible="1">充值数据综合分析</menuitem>
+	</menubar>
+	<menubar name="运营统计">
+		<menuitem icon="icon_report.gif" link="../stat/frame.jsp?title=留存率统计&amp;link=statRetentionRate.jsp" module="运营统计" permission="留存率统计" visible="1">留存率统计</menuitem>
+		<menuitem icon="icon_report.gif" link="../stat/frame.jsp?title=流失率统计&amp;link=getTurnoverRate.jsp" module="运营统计" permission="流失率统计" visible="1">流失率统计</menuitem>
+		<menuitem icon="icon_report.gif" link="../stat/frame.jsp?title=单日角色数据分析&amp;link=statisticalPlayerDataChart.jsp" module="运营统计" permission="单日角色数据分析" visible="1">单日角色数据分析</menuitem>
+	</menubar>
+	<menubar name="市场统计">
+	    <menuitem icon="icon_report.gif" link="../stat/frame.jsp?title=数据汇总&amp;link=statistical_overview.jsp" module="市场统计" permission="数据汇总" visible="1">数据汇总</menuitem>
+	    <menuitem icon="icon_report.gif" link="../stat/frame.jsp?title=在线人数统计&amp;link=stat_player_online_charts.jsp" module="市场统计" permission="在线人数统计" visible="1">在线人数统计</menuitem>
+	    <menuitem icon="icon_report.gif" link="../stat/frame.jsp?title=数据对比&amp;link=data_comp.jsp" module="市场统计" permission="数据对比" visible="1">数据对比</menuitem>
+	    <menuitem icon="icon_report.gif" link="../stat/frame.jsp?title=服务器数据汇总&amp;link=operation_stat.jsp" module="市场统计" permission="服务器数据汇总" visible="1">服务器数据汇总</menuitem>
+	    <menuitem icon="icon_report.gif" link="../stat/frame.jsp?title=每日玩家数据&amp;link=everyday_player_stat.jsp" module="市场统计" permission="每日玩家数据" visible="1">每日玩家数据</menuitem>
+	    <menuitem icon="icon_report.gif" link="../stat/frame.jsp?title=每日用户数据&amp;link=everyday_user_stat.jsp" module="市场统计" permission="每日用户数据" visible="1">每日用户数据</menuitem>
+	    <menuitem icon="icon_report.gif" link="../stat/frame.jsp?title=渠道注册比例分析&amp;link=statChannelReg.jsp" module="市场统计" permission="渠道注册比例分析" visible="1">渠道注册比例分析</menuitem>
+	    <menuitem icon="icon_report.gif" link="../stat/frame.jsp?title=充值分析表&amp;link=everyday_charge_stat.jsp" module="市场统计" permission="充值分析表" visible="1">充值分析表</menuitem>
+	    <menuitem icon="icon_report.gif" link="../stat/frame.jsp?title=每日运营数据&amp;link=everyday_business_stat.jsp" module="市场统计" permission="每日运营数据" visible="1">每日运营数据</menuitem>
+	</menubar>
+	<menubar name="财务报表">	    
+		<menuitem icon="icon_stat2.gif" link="../stat/frame.jsp?title=SDK渠道充值&amp;link=agentsdk_list.jsp" module="财务报表" permission="SDK渠道充值" visible="1">SDK渠道充值</menuitem>
+		<menuitem icon="icon_stat2.gif" link="../stat/frame.jsp?title=无SDK渠道充值&amp;link=agentnsdk_list.jsp" module="财务报表" permission="无SDK渠道充值" visible="1">无SDK渠道充值</menuitem>
+	</menubar>
+	<menubar name="客服管理"> 
+		<menuitem icon="title-address.png" link="../info/frame.jsp?title=玩家日志&amp;link=game_log_page_list.jsp" module="客服管理" permission="玩家日志" visible="1">玩家日志</menuitem>			
+		<menuitem icon="icon_wapuser.gif" link="../info/frame.jsp?title=玩家数据&amp;link=player_data.jsp" module="客服管理" permission="玩家数据" visible="1">玩家数据</menuitem>			
+		<menuitem icon="icon_group.gif" link="../info/frame.jsp?title=玩家聊天&amp;link=msglog_page_list.jsp" module="客服管理" permission="玩家聊天" visible="1">玩家聊天</menuitem>
+		<menuitem icon="icon_group.gif" link="../info/frame.jsp?title=MAC禁言列表&amp;link=banned_mac_list.jsp" module="客服管理" permission="mac禁言" visible="1">MAC禁言列表</menuitem>
+		<menuitem icon="icon_group.gif" link="../info/frame.jsp?title=消息管理&amp;link=message_manger.jsp" module="客服管理" permission="消息管理" visible="1">消息管理</menuitem>
+	</menubar>
+	<menubar name="玩家管理">
+		<menuitem icon="icon_newacount.gif" link="../info/frame.jsp?title=帐号管理&amp;link=account_page_list.jsp" module="玩家管理" permission="帐号管理" visible="1">帐号管理</menuitem>
+		<menuitem icon="icon_useinfo.gif" link="../info/frame.jsp?title=角色管理&amp;link=player_page_list.jsp" module="玩家管理" permission="角色管理" visible="1">角色管理</menuitem>
+		<menuitem icon="icon_group.gif" link="../info/frame.jsp?title=玩家操作&amp;link=player_operate.jsp" module="玩家管理" permission="玩家操作" visible="1">玩家操作</menuitem>
+		<menuitem icon="icon_group.gif" link="../info/frame.jsp?title=玩家操作日志&amp;link=player_operate_log_page_list.jsp" module="玩家管理" permission="玩家操作日志" visible="1">玩家操作日志</menuitem>
+		<menuitem icon="icon_group.gif" link="../info/frame.jsp?title=玩家处理&amp;link=player_change.jsp" module="玩家管理" permission="玩家处理" visible="1">玩家处理</menuitem>
+		<menuitem icon="icon_group.gif" link="../info/frame.jsp?title=玩家处理日志&amp;link=player_change_log_page_list.jsp" module="玩家管理" permission="玩家处理日志" visible="1">玩家处理日志</menuitem>
+		<menuitem icon="icon_group.gif" link="../stat/frame.jsp?title=用户登录日志&amp;link=user_login_log_list.jsp" module="玩家管理" permission="用户登录日志" visible="1">用户登录日志</menuitem>
+		<menuitem icon="icon_group.gif" link="../info/frame.jsp?title=TXT管理&amp;link=txtfile_page_list.jsp" module="玩家管理" permission="TXT管理" visible="1">TXT管理</menuitem>
+		<menuitem icon="icon_group.gif" link="../info/frame.jsp?title=玩家财产管理&amp;link=plaassect_page_list.jsp" module="玩家管理" permission="玩家财产管理" visible="1">玩家财产管理</menuitem>
+	</menubar>
+	<menubar name="游戏管理"> 
+		<menuitem icon="gift_code.png" link="../info/frame.jsp?title=激活码&amp;link=activatecode_page_list.jsp" module="游戏管理" permission="激活码" visible="1">激活码</menuitem>
+		<menuitem icon="gift_code.png" link="../info/frame.jsp?title=兑换码&amp;link=exchangecode_page_list.jsp" module="游戏管理" permission="兑换码" visible="1">兑换码</menuitem>
+		<menuitem icon="gift_code.png" link="../info/frame.jsp?title=平台礼包码&amp;link=platform_gift_code_page_list.jsp" module="游戏管理" permission="平台礼包码" visible="1">平台礼包码</menuitem>
+		<menuitem icon="icon_getmoney.gif" link="../info/frame.jsp?title=数据报表&amp;link=gamestat_list.jsp" module="游戏管理" permission="数据报表" visible="1">数据报表</menuitem>
+		<menuitem icon="icon_getmoney.gif" link="../info/frame.jsp?title=游戏活动管理&amp;link=customacti_list.jsp" module="游戏管理" permission="游戏活动管理" visible="1">游戏活动管理</menuitem>
+		<menuitem icon="icon_getmoney.gif" link="../info/frame.jsp?title=系统公告管理&amp;link=sysnotice_page_list.jsp" module="游戏管理" permission="系统公告管理" visible="1">系统公告管理</menuitem>
+		<menuitem icon="icon_getmoney.gif" link="../info/frame.jsp?title=敏感词库&amp;link=ensitiveword_page_list.jsp" module="游戏管理" permission="敏感词库" visible="1">敏感词库</menuitem>
+		<menuitem icon="icon_group.gif" link="../info/frame.jsp?title=邮件管理&amp;link=sysmail_page_list.jsp" module="游戏管理" permission="邮件管理" visible="1">邮件管理</menuitem>
+	</menubar>
+	<menubar name="版本更新">
+		<menuitem icon="xianmo_icon.png" link="../info/frame.jsp?title=APK版本&amp;link=apk_ver_list.jsp" module="版本更新" permission="APK版本" visible="1">APK版本</menuitem>
+		<!--
+		<menuitem icon="patch.png" link="../info/frame.jsp?title=升级补丁&amp;link=patch_ver_list.jsp" module="版本更新" permission="升级补丁" visible="1">升级补丁</menuitem>							
+		-->
+		<menuitem icon="zip.png" link="../info/frame.jsp?title=升级资源包&amp;link=res_ver_list.jsp" module="版本更新" permission="升级资源包" visible="1">升级资源包</menuitem>							
+		<menuitem icon="zip.png" link="../info/frame.jsp?title=资源文件&amp;link=res_filelist_list.jsp" module="版本更新" permission="资源列表CRC" visible="1">资源列表CRC</menuitem>
+	</menubar>
+	<menubar name="基本数据">			
+		<menuitem icon="conf.gif" link="../info/frame.jsp?title=参数设置&amp;link=config_list.jsp" module="基本数据" permission="参数设置" visible="1">参数设置</menuitem>
+		<menuitem icon="phone.gif" link="../info/frame.jsp?title=低端机型设置&amp;link=poor_phone_list.jsp" module="基本数据" permission="低端机型设置" visible="1">低端机型设置</menuitem>
+		<menuitem icon="conf.gif" link="../info/frame.jsp?title=数据表查看&amp;link=listtab_list.jsp" module="基本数据" permission="数据表查看" visible="1">数据表查看</menuitem>
+	</menubar>
+	<menubar name="服务器管理">
+		<menuitem icon="icon_NetworkGroup.gif" link="../info/frame.jsp?title=用户服务器&amp;link=userserver_list.jsp" module="服务器管理" permission="用户服务器" visible="1">用户服务器</menuitem>
+		<menuitem icon="icon_NetworkGroup.gif" link="../info/frame.jsp?title=游戏服务器&amp;link=server_list.jsp" module="服务器管理" permission="游戏服务器" visible="1">游戏服务器</menuitem>
+		<menuitem icon="icon_NetworkGroup.gif" link="../info/frame.jsp?title=合并服务器&amp;link=mergerserver_page.jsp" module="服务器管理" permission="合并服务器" visible="1">合并服务器</menuitem>
+		<menuitem icon="icon_comreport.gif" link="../info/frame.jsp?title=服务器状态监控&amp;link=serverstate_page_list.jsp" module="服务器管理" permission="服务器状态监控" visible="1">服务器状态监控</menuitem>			
+		<menuitem icon="icon_comreport.gif" link="../info/frame.jsp?title=服务器异常邮箱&amp;link=serverexcmail_list.jsp" module="服务器管理" permission="服务器异常邮箱" visible="1">服务器异常邮箱</menuitem>
+		<menuitem icon="icon_comreport.gif" link="../info/frame.jsp?title=访问服务器异常日志&amp;link=accserverexclog_page_list.jsp" module="服务器管理" permission="访问服务器异常日志" visible="1">访问服务器异常日志</menuitem>
+	</menubar>
+	<menubar name="系统功能">		
+		<menuitem icon="clipreload.gif" link="../info/frame.jsp?title=服务器更新&amp;link=server_update_list.jsp" module="系统功能" permission="服务器更新" visible="1">服务器更新</menuitem>		
+		<menuitem icon="menu.gif" link="../info/frame.jsp?title=SQL执行&amp;link=sqlexecute_list.jsp" module="系统功能" permission="SQL执行" visible="1">SQL执行</menuitem>
+		<menuitem icon="title-config.gif" link="../info/frame.jsp?title=表管理&amp;link=system_table_list.jsp" module="系统功能" permission="表管理" visible="1">表管理</menuitem>
+		<menuitem icon="icon_tongji1.gif" link="../info/frame.jsp?title=指令统计&amp;link=act_stat.jsp" module="系统功能" permission="指令统计" visible="0">指令统计</menuitem>
+		<menuitem icon="clipreload.gif" link="../dev_web/frame.jsp?title=数据维护&amp;link=dev_mgr.jsp" module="数据维护" permission="数据维护" visible="1">数据维护</menuitem>
+	</menubar> 	
+	<menubar name="数据维护">
+		<menuitem icon="icon_searchAcount.gif" link="../info/frame.jsp?title=SQL查询&amp;link=sqlquery_page_list.jsp" module="数据维护" permission="SQL查询" visible="1">SQL查询</menuitem>
+		<menuitem icon="clippaper.gif" link="../info/frame.jsp?title=文件管理&amp;link=system_folder_list.jsp" module="数据维护" permission="文件管理" visible="1">文件管理</menuitem>
+		<menuitem icon="clipreload.gif" link="../dev_upd/frame.jsp?title=数据更新&amp;link=dev_update.jsp" module="数据维护" permission="数据更新" visible="1">数据更新</menuitem>
+		<menuitem icon="clipreload.gif" link="../dev_server/frame.jsp?title=服务器维护&amp;link=dev_mgr_user.jsp" module="数据维护" permission="服务器维护" visible="1">服务器维护</menuitem>
+		<menuitem icon="icon_clock.png" link="../info/frame.jsp?title=计划任务&amp;link=schedule_list.jsp" module="数据维护" permission="计划任务" visible="1">计划任务</menuitem>	
+	</menubar>	
+	<menubar name="系统设置">
+		<menuitem icon="icon_group2.gif" link="../system/frame.jsp?title=权限分组&amp;link=role_list.jsp" module="系统设置" permission="权限分组" visible="1">权限分组</menuitem>	
+		<menuitem icon="icon_user.gif" link="../system/frame.jsp?title=用户管理&amp;link=user_list.jsp" module="系统设置" permission="用户管理" visible="1">用户管理</menuitem>			
+		<menuitem icon="icon_user.gif" link="../system/frame.jsp?title=管理员操作日志&amp;link=admin_opereat_log_list.jsp" module="系统设置" permission="管理员操作日志" visible="1">管理员操作日志</menuitem>			
+		<menuitem icon="icon_user.gif" link="../system/frame.jsp?title=禁IP设置&amp;link=ipdeny_page_list.jsp" module="系统设置" permission="禁IP设置" visible="1">禁IP设置</menuitem>
+		<menuitem icon="icon_changepwd2.gif" link="../system/frame.jsp?title=更改密码&amp;link=pwd_change.jsp" module="系统设置" permission="" visible="1">更改密码</menuitem>
+		<menuitem icon="icon_exit2.gif" link="exit.jsp" module="系统设置" permission="" visible="1">退出</menuitem>
+	</menubar>
+</menu>

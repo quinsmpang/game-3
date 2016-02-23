@@ -1,0 +1,12 @@
+﻿
+name=tb_bauser
+
+namenote=系统用户
+
+field=username,1,20,1	truename,1,20,1	password,1,32,1	usertype,0,0,1	isenable,0,0,1	regtime,2,0,1	lastlogintime,2,0,1	ip,1,30,1	province,1,30,1	city,1,30,1	channel,1,5,1
+
+fieldnote=系统用户名	真名	密码	用户类型	是否启用	注册时间	最后登录时间	最后登录ip	省份	城市	所属渠道
+
+index:
+id	2	ind_bauser_id
+indexEnd

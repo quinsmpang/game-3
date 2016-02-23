@@ -1,0 +1,8 @@
+﻿
+name=tab_sell_log
+
+namenote=出售日志
+
+field=serverid,0,11	vip,0,4	lv,0,6	shoptype,0,2	shoplv,0,2,1	itemtype,0,11	itemnum,0,11	buytype,0,1	price,0,11	amount,0,11	playerid,0,11	savetime,2,0
+
+fieldnote=服务器id	vip等级	角色等级	商店类型	商店等级	道具类型	道具编号 	购买类型	购买金额	购买数量	角色id	保存时间

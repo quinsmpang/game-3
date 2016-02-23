@@ -1,0 +1,13 @@
+﻿
+name=tab_faction_shop_stone
+
+namenote=家族商店魂石
+
+field=stone,1,64	price,1,64
+
+fieldnote=魂石	价格
+
+data:
+1,7,41,5	8,500
+1,7,6,5	8,500
+dataEnd

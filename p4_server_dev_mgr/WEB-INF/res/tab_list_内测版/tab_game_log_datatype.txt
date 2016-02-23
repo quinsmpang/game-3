@@ -1,0 +1,13 @@
+﻿
+name=tab_game_log_datatype
+
+namenote=游戏日志数据类型
+
+field=dtype,0,3	name,1,16	chacol,1,48	nowcol,1,48	syscol,1,48
+
+fieldnote=类型	名称	变化值字段	当前值字段	系统变化字段
+
+data:
+1	铜钱	changemoney	nowmoney	sysmoney
+2	金锭	changecoin	nowcoin	syscoin
+dataEnd

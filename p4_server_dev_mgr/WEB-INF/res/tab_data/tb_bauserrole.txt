@@ -1,0 +1,12 @@
+﻿
+name=tb_bauserrole
+
+namenote=系统用户分组
+
+field=userid,0,0,1	roleid,0,0,1
+
+fieldnote=系统用户id	组id
+
+index:
+id	2	ind_bauserrole_id
+indexEnd

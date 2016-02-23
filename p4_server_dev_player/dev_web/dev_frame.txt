@@ -1,0 +1,43 @@
+﻿
+title=基础,个人,帮派
+
+基础START
+主角	player.jsp
+物品	item.jsp
+礼包码	giftcode.jsp
+邮件	mail.jsp
+波克用户管理	pookuser.jsp
+聊天消息	msg.jsp
+排行榜	ranking.jsp
+装备	equip.jsp
+伙伴	partner.jsp
+基础END
+
+个人START
+副本	copymap.jsp
+普通商店	ordinary_shop.jsp
+神秘商店	mystery_shop.jsp
+竞技商店	jj_shop.jsp
+魂点商店	sp_shop.jsp
+日常	daily.jsp
+排位竞技场	jjcranking.jsp
+召唤	summon.jsp
+国战	cb.jsp
+铜钱试炼	trial_money.jsp
+经验试炼	trial_exp.jsp
+伙伴试炼	trial_partner.jsp
+补给	supply.jsp
+神器	artifact.jsp
+社交	friend.jsp
+世界BOSS	worldboss.jsp
+轮回塔	tower.jsp
+轮回塔商店	tower_shop.jsp
+组队活动	team_acti.jsp
+挖矿	minerals.jsp
+个人END
+
+帮派START
+帮派管理	faction.jsp
+帮派商店	faction_shop.jsp
+帮派副本	faccopymap.jsp
+帮派END

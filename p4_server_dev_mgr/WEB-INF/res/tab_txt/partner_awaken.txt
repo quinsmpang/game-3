@@ -1,0 +1,7 @@
+﻿
+data:
+needphase=11
+needstar=6
+needmoney=10000
+needsoulpoint=10000
+dataEnd

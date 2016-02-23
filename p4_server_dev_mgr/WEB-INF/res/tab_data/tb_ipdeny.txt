@@ -1,0 +1,8 @@
+﻿
+name=tb_ipdeny
+
+namenote=后台禁IP表
+
+field=ip,1,50	savetime,2,0	username,4,64
+
+fieldnote=被禁IP	保存时间	用户名

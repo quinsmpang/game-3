@@ -1,0 +1,15 @@
+﻿
+name=tab_tower_shop_refresh
+
+namenote=轮回塔商店刷新消耗
+
+field=begin,0,6	end,0,6	need,0,6
+
+fieldnote=刷新次数下限	刷新次数上限	主动刷新所需金锭
+
+data:
+1	3	10
+4	10	20
+11	20	50
+21	100000	100
+dataEnd

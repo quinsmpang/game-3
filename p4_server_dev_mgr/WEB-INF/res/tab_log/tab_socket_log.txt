@@ -1,0 +1,8 @@
+﻿
+name=tab_socket_log
+
+namenote=SOCKET日志
+
+field=reqtime,2,0	reqdata,1,512,1	userid,0,11,1	resptime,2,0	respresult,0,1	respdata,1,4000	usedtime,0,8
+
+fieldnote=请求时间	请求数据	用户编号	返回时间	返回结果	返回数据	连接用时

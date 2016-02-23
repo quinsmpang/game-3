@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<url>http://user.p4test.pook.com.cn/game_user/</url>
+	<webdir>webmanage/dev_web/</webdir>
+	<outSql>0</outSql>
+	<gdout>0</gdout>
+	<testredir></testredir>	
+</config>

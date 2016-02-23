@@ -1,0 +1,12 @@
+﻿
+name=tb_barolepermission
+
+namenote=系统用户组权限
+
+field=roleid,0,0,1	moduleid,1,20,1	permission,1,20,1
+
+fieldnote=用户组id	模块名	权限名
+
+index:
+id	2	ind_barolepermission_id
+indexEnd

@@ -1,0 +1,12 @@
+﻿
+name=tab_item_stor
+
+namenote=物品库
+
+field=playerid,0,11	itemtype,0,2	itemnum,0,16	itemamount,0,8	zone,0,2
+
+fieldnote=玩家ID	物品类型	物品编号	物品数量	所在空间
+
+index:
+playerid	1	ind_item_stor_pid
+indexEnd

@@ -1,0 +1,8 @@
+﻿
+name=tab_platform_code_give_log
+
+namenote=平台礼包码领取日志
+
+field=playerid,0,0,1	giftcode,1,10,1	savetime,2,0,1
+
+fieldnote=玩家	礼包码	领取时间

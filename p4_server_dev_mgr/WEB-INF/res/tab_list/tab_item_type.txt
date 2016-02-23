@@ -1,0 +1,21 @@
+﻿
+name=tab_item_type
+
+namenote=物品类型
+
+field=itemtype,0,3	name,1,24	tabname,1,32	multi,0,1
+
+fieldnote=物品类型	名称	数据表名	叠加类型
+
+data:
+1	道具	tab_prop_consume	2
+2	抽奖物品	tab_lottery	2
+3	礼包	tab_gift	0
+4	普通装备	tab_equip_ordinary	0
+5	灵珠	tab_orb	2
+6	灵珠碎片	tab_orb_debris	2
+7	魂石	tab_soul_stone	2
+8	装备碎片	tab_equip_debris	2
+9	选择礼包	tab_choose_gift	2
+10	神器碎片	tab_artifact_debris	2
+dataEnd

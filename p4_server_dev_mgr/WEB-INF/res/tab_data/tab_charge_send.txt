@@ -1,0 +1,12 @@
+﻿
+name=tab_charge_send
+
+namenote=发货单
+
+field=serverid,0,0,1	channel,1,5,1	orderno,1,50,1	result,0,1,1	savetime,2,0,1
+
+fieldnote=游戏服id	支付渠道	订单号	发货结果	保存时间
+
+index:
+id	2	ind_charge_send_id
+indexEnd

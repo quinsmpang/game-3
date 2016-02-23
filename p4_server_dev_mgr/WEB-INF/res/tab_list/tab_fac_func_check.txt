@@ -1,0 +1,21 @@
+﻿
+name=tab_fac_func_check
+
+namenote=家族功能检测
+
+field=actnum,0,8	webkey,1,64	funcnum,0,8
+
+fieldnote=请求编号	页面KEY	功能编号
+
+data:
+1801	plafac_getliveaw	3
+1802	plafac_getwelfareaw	1
+1803	plafac_refresh	11
+1804	plafac_challenge	11
+1805	plafac_wish	10
+1806	plafac_hone	10
+1851	facbuilding_upbuilding	4
+1852	facskill_upskill	6
+1901	fac_shop_get_item	5
+1902	fac_shop_buy_item	5
+dataEnd

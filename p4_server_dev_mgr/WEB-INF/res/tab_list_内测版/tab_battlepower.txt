@@ -1,0 +1,23 @@
+﻿
+name=tab_battlepower
+
+namenote=战力计算
+
+field=num,0,11	battletype1,0,0	battletype2,0,0	battletype3,0,0	battletype4,0,0	battletype5,0,0
+
+fieldnote=属性编号	近战型	肉盾型	法术型	刺杀型	辅助型
+
+data:
+0	0.1	0.1	0.1	0.1	0.1
+1	1	1	1	1	1
+2	0.5	0.5	0.5	0.5	0.5
+3	0.5	0.5	0.5	0.5	0.5
+4	1	1	1	1	1
+5	1	1	1	1	1
+6	1	1	1	1	1
+7	1	1	1	1	1
+8	1	1	1	1	1
+9	1	1	1	1	1
+10	1	1	1	1	1
+11	1	1	1	1	1
+dataEnd

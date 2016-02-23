@@ -1,0 +1,11 @@
+﻿
+data:
+//恢复抢夺次数单位时间（分钟）
+robrecovertimelen=30
+//最大累积抢夺次数
+maxrobtimes=10
+//开启保护所需金锭
+openprotectcoin=50,100,200
+//保护单位时长（分钟）
+protecttimelen=360
+dataEnd

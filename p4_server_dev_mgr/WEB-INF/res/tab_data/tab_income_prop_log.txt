@@ -1,0 +1,8 @@
+﻿
+name=tab_income_prop_log
+
+namenote=购买道具表
+
+field=user_id,0,20,1	user_name,1,64,1	agent_name,1,32,1	prop_type,0,11,1	game_name,1,32,1	prop_name,1,32,1	buy_amount,0,11,1	money_type,0,11,1	pay_money,0,11,1	pay_time,2,0,1	effective_time,2,0,1	effective_day,0,11,1	present_info,1,512,1	client_ip,1,32,1	platform,1,32,1	related_num,1,64,1	company_id,1,16,1	createtime,2,0
+
+fieldnote=用户id	用户昵称	渠道名称	道具类型	游戏名称	道具名称	购买数量	支付金额类型	支付金额	支付时间	有效期	有效天数	购买信息	购买ip	购买平台	充值订单	公司	创建时间

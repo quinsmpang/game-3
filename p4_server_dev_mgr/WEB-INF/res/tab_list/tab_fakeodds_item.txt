@@ -1,0 +1,14 @@
+﻿
+name=tab_fakeodds_item
+
+namenote=假概率项
+
+field=modename,1,16	funcname,1,16	itemname,1,48	confkey,1,32	confvalue,1,128	note,1,128
+
+fieldnote=模块名	功能名	项名	CONFKEY	CONFVALUE	说明
+
+data:
+宠物	融合	宠物融合一定次数成功概率增加	pet_fake_odds_int_times	5,2	无
+宠物	融合	宠物融合失败时增加幸运值	pet_fake_odds_int_luck	10	无
+日常任务	刷新	钻石刷新日常任务假概率	daily_task_refresh	-1,0,1,2|5,15,70,10|10	无
+dataEnd

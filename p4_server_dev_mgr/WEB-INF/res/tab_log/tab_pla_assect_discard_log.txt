@@ -1,0 +1,8 @@
+﻿
+name=tab_pla_assect_discard_log
+
+namenote=角色财产丢弃日志
+
+field=playerid,0,11	serverid,0,11	type,0,2	info,1,768	createtime,2,0	recovertime,2,0,1
+
+fieldnote=玩家ID	服务器ID	财产类型	财产信息	创建时间	恢复时间

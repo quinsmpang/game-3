@@ -1,0 +1,8 @@
+﻿
+name=tab_item_from_log
+
+namenote=物品来源日志
+
+field=playerid,0,11	serverid,0,11	itemtype,0,11	itemnum,0,11	itemamount,0,11	itemfrom,0,3	createtime,2,0
+
+fieldnote=角色ID	服务器ID	物品类型	物品编号	物品数量	物品来源	记录时间

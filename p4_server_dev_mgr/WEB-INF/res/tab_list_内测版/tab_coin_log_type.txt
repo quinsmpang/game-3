@@ -1,0 +1,12 @@
+﻿
+name=tab_coin_log_type
+
+namenote=钻石日志类型
+
+field=itemid,0,11	itemname,1,64	obtain,1,1024,1	validitytype,0,11	validityday,0,11	buyscene,1,64	awardtype,0,11
+
+fieldnote=道具ID	道具名	道具描述	有效期类型	有效天数	购买场景	金锭变动类型
+
+data:
+1801	买铜钱	消耗金锭购买铜钱	1	0	商城	2
+dataEnd

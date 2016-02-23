@@ -1,0 +1,12 @@
+﻿
+name=tab_equip_stor
+
+namenote=装备库
+
+field=playerid,0,11	serverid,0,11	itemid,0,11	num,0,11	strelv,0,11	starlv,0,11
+
+fieldnote=角色编号	服务器ID	物品ID	装备编号	强化等级	星级
+
+index:
+playerid	1	ind_equip_stor_pid
+indexEnd

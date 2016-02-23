@@ -1,0 +1,14 @@
+﻿
+name=tab_trial_times
+
+namenote=试炼次数
+
+field=num,0,11	times,1,32	energy,1,32
+
+fieldnote=编号	每日挑战次数	所需体力
+
+data:
+1	3	6
+2	1,3|2,3|3,3	1,6|2,6|3,6
+3	2	6
+dataEnd

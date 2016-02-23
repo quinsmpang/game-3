@@ -1,0 +1,12 @@
+﻿
+name=tab_pla_tower
+
+namenote=角色轮回塔
+
+field=playerid,0,11	serverid,0,11	layer,0,11	diff,0,11	bossdata,1,256	bosshp,1,256	dead,1,512	score,0,11
+
+fieldnote=角色ID	服务器ID	今日已通过层数	当前挑战难度	随机敌人数据	敌人剩余血量	已死亡伙伴	今日获得积分
+
+index:
+playerid	2	ind_pla_tower_pid
+indexEnd

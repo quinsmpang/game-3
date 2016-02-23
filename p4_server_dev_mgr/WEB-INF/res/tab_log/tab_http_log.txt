@@ -1,0 +1,8 @@
+﻿
+name=tab_http_log
+
+namenote=HTTP日志
+
+field=reqtime,2,0,1	reqflow,0,10,1	act,0,6,1	userid,0,11,1	serverid,0,11,1	playerid,0,11,1	resptime,2,0,1	respflow,0,10,1	respresult,0,1,1	respdatatype,0,2,1	usedtime,0,8,1	uploadtime,0,8,1	downloadtime,0,8,1	ip,4,20,1
+
+fieldnote=请求时间	请求流量	请求类型	用户编号	服务器编号	角色编号	返回时间	返回流量	返回结果	返回数据类型	用时(ms)	上传用时(ms)	下载用时(ms)	IP

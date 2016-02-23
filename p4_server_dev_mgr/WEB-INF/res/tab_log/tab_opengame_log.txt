@@ -1,0 +1,8 @@
+﻿
+name=tab_opengame_log
+
+namenote=打开游戏日志
+
+field=platform,1,3	phonevendor,1,128,1	phonemodel,1,128,1	memory,0,11	mac,1,20,1	imei,1,32,1	savetime,2,0,1
+
+fieldnote=推广平台编号	手机品牌	手机机型	内存大小（M）	手机mac地址	手机IMEI串号	记录时间

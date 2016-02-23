@@ -1,0 +1,8 @@
+﻿
+name=tab_player_operate_log
+
+namenote=玩家操作日志
+
+field=playerid,0,11	serverid,0,11	act,0,3	actnote,1,32,1	note,1,128,1	username,1,16	ip,1,20,1	savetime,2,0
+
+fieldnote=角色ID	服务器ID	动作类型	动作说明	操作说明	操作者	IP	保存时间

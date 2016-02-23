@@ -1,0 +1,12 @@
+﻿
+name=tab_txt
+
+namenote=文本数据
+
+field=txtkey,1,32	txtvalue,3,0,1
+
+fieldnote=键	值
+
+index:
+txtkey	2	ind_txt_key
+indexEnd

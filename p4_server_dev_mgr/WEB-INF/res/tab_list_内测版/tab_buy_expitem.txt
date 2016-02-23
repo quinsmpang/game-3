@@ -1,0 +1,15 @@
+﻿
+name=tab_buy_expitem
+
+namenote=买经验药
+
+field=num,0,11	name,1,16	itemnum,0,11	note,1,128	amountmul,0,11	price,1,32
+
+fieldnote=编号	名称	对应道具编号	说明	购买数量倍数	购买价格
+
+data:
+1	初级经验丹	2	<color=#FFFFFF>初级经验丹</color>，+100经验	5	1,5000
+2	中级经验丹	3	<color=#33cc33>中级经验丹</color>，+500经验	5	2,5
+3	高级经验丹	4	<color=#2396e7>高级经验丹</color>，+2000经验	5	2,20
+4	特级经验丹	5	<color=#FF5bd1>特级经验丹</color>，+10000经验	3	2,60
+dataEnd

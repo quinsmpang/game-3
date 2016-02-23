@@ -1,0 +1,8 @@
+﻿
+name=tab_charge_log
+
+namenote=充值日志
+
+field=playerid,0,11	serverid,0,11	plv,0,3	isfirst,0,1	chargepoint,0,3	createtime,2,0
+
+fieldnote=角色ID	服务器ID	等级	是否首充	充值点	创建时间

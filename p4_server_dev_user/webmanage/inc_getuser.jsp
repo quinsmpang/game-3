@@ -1,0 +1,31 @@
+﻿<%@ page contentType="text/html; charset=UTF-8"%>
+<%
+JSONObject userObj=(JSONObject)session.getAttribute("user");
+%>
+<%if(userObj==null){%>
+<script>
+alert("登录状态已失效，请重新登录！");
+if(opener!=null)
+{
+	if(opener.top.opener!=null)
+	{
+		opener.top.opener.focus();
+	}
+	//opener.top.close();
+	opener.top.location.replace("index.jsp");
+	top.close();
+}
+else
+{
+	if(top.opener!=null)
+	{
+		top.opener.focus();
+	}
+	//top.close();
+	top.location.replace("index.jsp");
+}
+</script>
+<%
+return;	
+}
+%>

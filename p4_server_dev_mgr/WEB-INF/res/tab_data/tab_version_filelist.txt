@@ -1,0 +1,12 @@
+﻿
+name=tab_version_filelist
+
+namenote=资源文件列表CRC
+
+field=platform,0,1	crc,1,10	enable,0,1	savetime,2,0	subfolder,1,20
+
+fieldnote=平台类型	资源文件列表CRC	生效	保存时间	资源子目录
+
+index:
+id	2	ind_filelist_id
+indexEnd

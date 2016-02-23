@@ -1,0 +1,12 @@
+﻿
+name=tab_pla_welfare
+
+namenote=角色福利
+
+field=playerid,0,11	taskdata,1,4000	taskaward,1,4000	achievedata,1,4000	achieveaward,1,4000	checkin,0,11	checkintotal,0,11	checkinaward,1,512	ischecked,0,1	targetaward,1,512
+
+fieldnote=角色ID	当前任务数据	已领取的任务奖励	当前成就数据	已领取的成就奖励	当月已签到天数	签到累计天数	已领取的签到累计奖励	当日已签次数	已领取的目标奖励
+
+index:
+playerid	2	ind_pla_welfare_pid
+indexEnd
